@@ -2,19 +2,18 @@
 #   Create a `[X]` block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Configure the English version of the site.
 [en]
-  languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
-# Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  languageCode = "en"
+  baseurl = "//nobuyuki83.github.io/academic-kickstart/en/"
+  contentDir = "content/en" 
+  canonifyurls = true
+  address_format = "en-us"
+  
+[ja]
+  languageCode = "ja"
+  baseurl = "//nobuyuki83.github.io/academic-kickstart/ja/"	    
+  contentDir = "content/ja"
+  canonifyurls = true  
+  address = {street = "弥生１丁目1-1　東京大学　農学部キャンパス　I-REF棟 5階", city = "文京区", region = "東京都", postcode = "〒113-8657", country = "日本", country_code = "JP"}
+  directions = "面会の方は、I-REF棟２階の事務室から呼び出して下さい"
+  address_format = "ja"
