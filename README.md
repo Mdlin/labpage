@@ -1,3 +1,25 @@
+# Our Laboratories Web Page
+
+## How to update
+
+```
+git clone 
+# make some change
+hugo server # check if the page work
+hugo # compile and synthesis the web page under /doc folder
+git add .
+git commit -m "hogehoge"
+git push
+```
+
+<strong>Never put large binary file (>10Mb) such as paper PDFs for paper videos. It will freeze the git</strong>
+
+
+
+---
+
+
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
