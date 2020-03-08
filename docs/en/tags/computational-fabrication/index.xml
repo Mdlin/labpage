@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Fabrication | Interactive Graphics &amp; Engineering Lab</title>
+    <link>//nobuyuki83.github.io/academic-kickstart/en/tags/computational-fabrication/</link>
+      <atom:link href="//nobuyuki83.github.io/academic-kickstart/en/tags/computational-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Fabrication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Computational Fabrication</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/tags/computational-fabrication/</link>
+    </image>
+    
+    <item>
+      <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/cga17_surfcuit/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/cga17_surfcuit/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga16_printone/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga16_printone/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga15tb_meltables/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga15tb_meltables/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

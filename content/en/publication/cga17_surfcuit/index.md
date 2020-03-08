@@ -25,7 +25,8 @@ abstract: The SurfCuit system integrates circuits into 3D prints by mounting the
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Geometry Processing
+- Computational Fabrication
 featured: false
 
 links:

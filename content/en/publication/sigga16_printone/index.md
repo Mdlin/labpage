@@ -27,16 +27,18 @@ abstract: We propose a new algorithm for converting unstructured triangle meshes
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Computational Fabrication
+- Physics Simulation
+- Geometry Processing
 featured: false
 
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2980179.2980250
 - name: Slide 
-  url: files/papers/2016_sigga_printone_slides.pdf
-url_pdf: 'files/papers/2016_sigga_printone.pdf'
-url_video: files/papers/2016_sigga_printone.mp4
+  url: https://www.dropbox.com/s/sliw1hyfpwcwgim/2016_sigga_printone_slides.pdf
+url_pdf: https://www.dropbox.com/s/xyt2ixcpisl3wpi/2016_sigga_printone.pdf
+url_video: https://www.dropbox.com/s/u9kvfjrzmg31qra/2016_sigga_printone.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

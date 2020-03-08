@@ -24,20 +24,18 @@ abstract: We propose a new algorithm for converting unstructured triangle meshes
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Machine Learning 
+- Geometry Processing
 featured: false
 
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/3145749.3145758
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: YouTube Video
+  url: https://www.youtube.com/watch?v=25xQs0Hs1z0
+url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
+url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
+url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

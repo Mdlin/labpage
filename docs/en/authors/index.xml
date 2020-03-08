@@ -5,7 +5,7 @@
     <link>//nobuyuki83.github.io/academic-kickstart/en/authors/</link>
       <atom:link href="//nobuyuki83.github.io/academic-kickstart/en/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>//nobuyuki83.github.io/academic-kickstart/en/authors/admin/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>//nobuyuki83.github.io/academic-kickstart/en/authors/admin/</guid>
       <description>&lt;p&gt;Nobuyuki Umetani is an associate professor in the University of Tokyo.
 His research interests include computational fabrication, physics-based animation, machine learning for 3D geometry,
@@ -27,18 +27,18 @@ The main focus on my resarch is design of computational alrogithm and interactio
     </item>
     
     <item>
-      <title>Ryan Schmidt</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</guid>
+      <title>Bernd Bickel</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/authors/bernd-bickel/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>//nobuyuki83.github.io/academic-kickstart/en/authors/bernd-bickel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bernd Bickel</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/authors/bernd-bickel/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/authors/bernd-bickel/</guid>
+      <title>Ryan Schmidt</title>
+      <link>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</guid>
       <description></description>
     </item>
     

@@ -26,7 +26,8 @@ abstract: We propose a new algorithm for converting unstructured triangle meshes
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Gemoetry Processing
+- Computational Fabrication
 featured: false
 
 links:
