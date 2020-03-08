@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Transation of Graphics*
+publication: In *ACM Transation of Graphics 2008*
 publication_short: In *SIGGRAPH 2018*
 
 abstract: We present a data-driven technique to instantly predict how fluid flows around various three-dimensional objects. Such simulation is useful for computational fabrication and engineering, but is usually computationally expensive since it requires solving the Navier-Stokes equation for many time steps. To accelerate the process, we propose a machine learning framework which predicts aerodynamic forces and velocity and pressure fields given a three-dimensional shape input. Handling detailed free-form three-dimensional shapes in a data-driven framework is challenging because machine learning approaches usually require a consistent parametrization of input and output. We present a novel PolyCube maps-based parametrization that can be computed for three-dimensional shapes at interactive rates. This allows us to efficiently learn the nonlinear response of the flow using a Gaussian process regression. We demonstrate the effectiveness of our approach for the interactive design and optimization of a car body.
@@ -31,7 +31,9 @@ featured: false
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/3197517.3201325
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+- name: YouTube video
+  url: https://www.youtube.com/watch?v=U38cKk-sxyY
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

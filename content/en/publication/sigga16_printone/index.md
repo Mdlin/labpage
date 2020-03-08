@@ -33,14 +33,10 @@ featured: false
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2980179.2980250
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Slide 
+  url: files/papers/2016_sigga_printone_slides.pdf
+url_pdf: 'files/papers/2016_sigga_printone.pdf'
+url_video: files/papers/2016_sigga_printone.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
