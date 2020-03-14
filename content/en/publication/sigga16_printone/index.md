@@ -18,8 +18,8 @@ publishDate: "2016-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIGGRAPH Asia 2016*
-publication_short: In *SIGGA 2016*
+publication: In *ACM Transaction of Graphics (SIGGRAPH Asia 2016)*
+publication_short: In *SIGGRAPH Asia 2016*
 
 abstract: We propose a new algorithm for converting unstructured triangle meshes into ones with a consistent topology for machine learning applications. We combine the orthogonal depth map computation and the shrink wrapping approach to efficiently and robustly parameterize the triangle geometry regardless of imperfections such as inverted faces, holes, and self-intersections. The converted mesh is consistently and compactly parameterized and thus is suitable for machine learning. We use an autoencoder network to extract the manifold of shapes in the same category to explore and synthesize a variety of shapes. Furthermore, we introduce a direct manipulation interface to navigate the synthesis. We demonstrate our approach with over one thousand car shapes represented in unstructured triangle meshes.
 

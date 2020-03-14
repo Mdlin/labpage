@@ -2,7 +2,7 @@
 title: "Exploring Generative 3D Shapes Using Autoencoder Networks"
 authors:
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2017-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,8 +15,8 @@ publishDate: "2017-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIGGrAPH Asia 2017 Technical Brief program*
-publication_short: In *SIGG Asia tech. brief*
+publication: In *SIGGRAPH Asia 2017 Technical Brief program*
+publication_short: In *SIGG. Asia tech. brief*
 
 abstract: We propose a new algorithm for converting unstructured triangle meshes into ones with a consistent topology for machine learning applications. We combine the orthogonal depth map computation and the shrink wrapping approach to efficiently and robustly parameterize the triangle geometry regardless of imperfections such as inverted faces, holes, and self-intersections. The converted mesh is consistently and compactly parameterized and thus is suitable for machine learning. We use an autoencoder network to extract the manifold of shapes in the same category to explore and synthesize a variety of shapes. Furthermore, we introduce a direct manipulation interface to navigate the synthesis. We demonstrate our approach with over one thousand car shapes represented in unstructured triangle meshes.
 
