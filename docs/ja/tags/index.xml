@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Interactive Graphics &amp; Engineering Lab</title>
-    <link>//nobuyuki83.github.io/academic-kickstart/ja/tags/</link>
-      <atom:link href="//nobuyuki83.github.io/academic-kickstart/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>//cgenglab.github.io/labpage/ja/tags/</link>
+      <atom:link href="//cgenglab.github.io/labpage/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Nobuyuki Umetani © 2020</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/ja/tags/</link>
+      <link>//cgenglab.github.io/labpage/ja/tags/</link>
     </image>
     
   </channel>

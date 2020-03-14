@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Schmidt | Interactive Graphics &amp; Engineering Lab</title>
-    <link>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</link>
-      <atom:link href="//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <link>//cgenglab.github.io/labpage/en/authors/ryan-schmidt/</link>
+      <atom:link href="//cgenglab.github.io/labpage/en/authors/ryan-schmidt/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Schmidt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ryan Schmidt</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</link>
+      <link>//cgenglab.github.io/labpage/en/authors/ryan-schmidt/</link>
     </image>
     
     <item>
       <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/cga17_surfcuit/</link>
+      <link>//cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/cga17_surfcuit/</guid>
+      <guid>//cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga16_printone/</link>
+      <link>//cgenglab.github.io/labpage/en/publication/sigga16_printone/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga16_printone/</guid>
+      <guid>//cgenglab.github.io/labpage/en/publication/sigga16_printone/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -54,9 +54,9 @@
     
     <item>
       <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga15tb_meltables/</link>
+      <link>//cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga15tb_meltables/</guid>
+      <guid>//cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -74,9 +74,9 @@
     
     <item>
       <title>Position-based Elastic Rod</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/en/publication/sca14_pbdrod/</link>
+      <link>//cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>//nobuyuki83.github.io/academic-kickstart/en/publication/sca14_pbdrod/</guid>
+      <guid>//cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

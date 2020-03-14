@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Interactive Graphics &amp; Engineering Lab</title>
-    <link>//nobuyuki83.github.io/academic-kickstart/ja/publication/</link>
-      <atom:link href="//nobuyuki83.github.io/academic-kickstart/ja/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>//cgenglab.github.io/labpage/ja/publication/</link>
+      <atom:link href="//cgenglab.github.io/labpage/ja/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Nobuyuki Umetani © 2020</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>//nobuyuki83.github.io/academic-kickstart/ja/publication/</link>
+      <link>//cgenglab.github.io/labpage/ja/publication/</link>
     </image>
     
   </channel>

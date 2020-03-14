@@ -4,14 +4,14 @@
 
 [en]
   languageCode = "en"
-  baseurl = "//nobuyuki83.github.io/academic-kickstart/en/"
+  baseurl = "//cgenglab.github.io/labpage/en/"
   contentDir = "content/en" 
   canonifyurls = true
   address_format = "en-us"
   
 [ja]
   languageCode = "ja"
-  baseurl = "//nobuyuki83.github.io/academic-kickstart/ja/"	    
+  baseurl = "//cgenglab.github.io/labpage/ja/"	    
   contentDir = "content/ja"
   canonifyurls = true  
   address = {street = "弥生１丁目1-1　東京大学　農学部キャンパス　I-REF棟 5階", city = "文京区", region = "東京都", postcode = "〒113-8657", country = "日本", country_code = "JP"}
