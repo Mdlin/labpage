@@ -33,7 +33,7 @@ featured: false
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/3197517.3201325
-- name: YouTube video
+- name: YouTube Video
   url: https://www.youtube.com/watch?v=U38cKk-sxyY
 url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
 url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
