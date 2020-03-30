@@ -36,6 +36,7 @@ links:
   url: https://dl.acm.org/doi/10.1109/MCG.2010.46
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=OUxsZCNs3Kg
+url_video: https://www.dropbox.com/s/l00atfuvo54xa4c/2010_cga_ResponsiveFEM_Video.mp4?dl=0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

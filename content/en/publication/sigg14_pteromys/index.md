@@ -30,6 +30,9 @@ tags:
 - Machine Learning
 - Physics Simulation
 - Computational Fabrication
+- Fluid Dynamics
+- Interactive Modeling
+- Reality Capture
 featured: false
 
 links:

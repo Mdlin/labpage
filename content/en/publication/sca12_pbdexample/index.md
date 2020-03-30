@@ -28,22 +28,23 @@ abstract: We present an example-based elastic deformation method that runs in re
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning 
-- Geometry Processing
+- Physics Simulation
 featured: false
 
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/3145749.3145758
 - name: YouTube Video
-  url: https://www.youtube.com/watch?v=25xQs0Hs1z0
+  url: https://www.youtube.com/watch?v=45QjojWiOEc
 - name: Project Page
   url: https://koyama.xyz/project/ExampleBasedShapeMatching/index.html
+
+youtubeid: 45QjojWiOEc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,6 +64,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -72,4 +74,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

@@ -28,6 +28,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Machine Learning 
 - Physics Simulation
+- Fluid Dynamics
+- Computational Fabrication
+- Interactive Modeling
+- Reality Capture
 featured: false
 
 links:

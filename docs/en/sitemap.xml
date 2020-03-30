@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>//cgenglab.github.io/labpage/en/tags/fluid-dynamics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//cgenglab.github.io/labpage/en/tags/geometry-processing/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -60,6 +65,11 @@
                 hreflang="en"
                 href="//cgenglab.github.io/labpage/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>//cgenglab.github.io/labpage/en/tags/interactive-modeling/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,12 +173,12 @@
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/andrew-o.-sageman-furnas/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <loc>//cgenglab.github.io/labpage/en/tags/sound-simulation/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/gemoetry-processing/</loc>
+    <loc>//cgenglab.github.io/labpage/en/authors/andrew-o.-sageman-furnas/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,8 +193,18 @@
   </url>
   
   <url>
+    <loc>//cgenglab.github.io/labpage/en/tags/reality-capture/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//cgenglab.github.io/labpage/en/authors/tobias-martin/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//cgenglab.github.io/labpage/en/tags/cloth-modeling/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

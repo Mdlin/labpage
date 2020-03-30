@@ -28,6 +28,8 @@ tags:
 - Machine Learning
 - Geometry Processing
 - Physics Simulation
+- Fluid Dynamics
+- Interactive Modeling
 featured: false
 
 links:

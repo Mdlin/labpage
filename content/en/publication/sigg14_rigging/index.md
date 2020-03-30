@@ -31,6 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Machine Learning
 - Physics Simulation
+- Cloth Modeling
 featured: false
 
 links:

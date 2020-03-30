@@ -30,6 +30,8 @@ tags:
 - Computational Fabrication
 - Physics Simulation
 - Geometry Processing
+- Sound Simulation
+- Interactive Modeling
 featured: false
 
 links:

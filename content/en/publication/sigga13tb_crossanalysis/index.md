@@ -1,5 +1,5 @@
 ---
-title: "Cross-sectional Structual Analysis for 3D Printing Optimization"
+title: Cross-sectional Structural Analysis for 3D Printing Optimization
 authors:
 - admin
 - Ryan Schmidt
@@ -19,26 +19,26 @@ publication_types: ["1"]
 publication: In *ACM SIGGRAPH Asia 2013 Technical Brief Program*
 publication_short: In *SIGG. Asia 2013 Tech. Brief*
 
-abstract: This paper introduces "OmniAD," a novel data-driven pipeline to model and acquire the aerodynamics of three-dimensional rigid objects. Traditionally, aerodynamics are examined through elaborate wind tunnel experiments or expensive fluid dynamics computations, and are only measured for a small number of discrete wind directions. OmniAD allows the evaluation of aerodynamic forces, such as drag and lift, for any incoming wind direction using a novel representation based on spherical harmonics. Our data-driven technique acquires the aerodynamic properties of an object simply by capturing its falling motion using a single camera. Once model parameters are estimated, OmniAD enables realistic real-time simulation of rigid bodies, such as the tumbling and gliding of leaves, without simulating the surrounding air. In addition, we propose an intuitive user interface based on OmniAD to interactively design three-dimensional kites that actually fly. Various non-traditional kites were designed to demonstrate the physical validity of our model.
+abstract: We propose a novel cross-sectional structural analysis technique that efficiently detects critical stress inside a 3D object. We slice the object into cross-sections and compute stress based on bending momentum equilibrium. Unlike traditional approaches based on finite element methods, our method doesn’t require a volumetric mesh or solution of linear systems, enabling interactive analysis speed. Based on the stress analysis, the orientation of an object is optimized to increase mechnanical strength when manufactured with 3D printing.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning 
 - Geometry Processing
+- Computational Fabrication
+- Interactive Modeling
 featured: false
 
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2766919
 - name: YouTube Video
-  url: https://www.youtube.com/watch?v=OUxsZCNs3Kg
-url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
-url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
-url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
+  url: https://www.youtube.com/watch?v=Y1zFrMkJ0YU
+url_pdf: https://www.dropbox.com/s/fiehkichmyh8czy/2013_siggatb_CrossSectionalAnalysis.pdf?dl=0
+url_slides: https://www.dropbox.com/s/uu99sxgp6g33siz/2013_siggatb_crossSectionalAnalysis_slide.pdf?dl=0
 
-youtubeid: OUxsZCNs3Kg
+youtubeid: Y1zFrMkJ0YU
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

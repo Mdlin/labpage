@@ -26,6 +26,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Machine Learning 
 - Geometry Processing
+- Interactive Modeling
 featured: false
 
 links:

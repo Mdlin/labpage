@@ -73,15 +73,10 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Directors
 ---
 
 Nobuyuki Umetani is an associate professor in the University of Tokyo. 
-His research interests include computational fabrication, physics-based animation, machine learning for 3D geometry, 
-data-driven physics modeling, and biomechanical simulation.
+His research interests include computational fabrication, physics-based animation, machine learning for 3D geometry, data-driven physics modeling, and biomechanical simulation.
 
-In the field of computer graphics, I have been conducting studies about interactive design systems for various functional objects 
-such as clothing pattern design, furniture design, musical instrument design, and aerodynamical automobile design.
-The main focus on my resarch is design of computational alrogithm and interaction technique to facilitate creative customized design.
 

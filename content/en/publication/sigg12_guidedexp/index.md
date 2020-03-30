@@ -26,9 +26,9 @@ abstract: Geometric modeling and the physical validity of shapes are traditional
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Geometry Processing
 - Physics Simulation
 - Computational Fabrication
+- Interactive Modeling
 featured: false
 
 links:

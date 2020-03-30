@@ -4,7 +4,7 @@ authors:
 - admin
 - Ryan Schmidt
 date: "2017-04-26T00:00:00Z"
-doi: "10.1109/MCG.2017.40"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-04-26T00:00:00Z"
@@ -27,6 +27,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Geometry Processing
 - Computational Fabrication
+- Interactive Modeling
 featured: false
 
 links:

@@ -31,8 +31,9 @@ abstract: This paper presents a lightweight sketching system that enables intera
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning 
-- Geometry Processing
+- Physics Simulation
+- Fluid Dynamics
+- Interactive Modeling
 featured: false
 
 links:
@@ -40,15 +41,17 @@ links:
   url: https://www.jst.go.jp/erato/igarashi/en/projects/sketchfluid/index.html
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2070781.2024168
-- name: Vimeo Video
-  url: https://vimeo.com/29846540
+- name: YouTube Video
+  url: https://www.youtube.com/watch?v=4VkQTX-9WDw
 url_pdf: https://www.jst.go.jp/erato/igarashi/projects/sketchfluid/sketchfluid.pdf
+
+youtubeid: 4VkQTX-9WDw
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
