@@ -33,12 +33,17 @@ tags:
 featured: false
 
 links:
+- name: YouTube Video
+  url: https://www.youtube.com/watch?v=dWHYLqcCPuU
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2980179.2980250
 - name: Slide 
   url: https://www.dropbox.com/s/sliw1hyfpwcwgim/2016_sigga_printone_slides.pdf
 url_pdf: https://www.dropbox.com/s/xyt2ixcpisl3wpi/2016_sigga_printone.pdf
 url_video: https://www.dropbox.com/s/u9kvfjrzmg31qra/2016_sigga_printone.mp4
+
+
+youtubeid: dWHYLqcCPuU
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,7 +67,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -72,4 +77,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

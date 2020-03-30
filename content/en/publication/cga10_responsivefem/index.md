@@ -28,8 +28,7 @@ abstract: Current computer-aided engineering systems use numerical-simulation me
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning 
-- Geometry Processing
+- Physics Simulation
 featured: false
 
 links:
@@ -37,9 +36,6 @@ links:
   url: https://dl.acm.org/doi/10.1109/MCG.2010.46
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=OUxsZCNs3Kg
-url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
-url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
-url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

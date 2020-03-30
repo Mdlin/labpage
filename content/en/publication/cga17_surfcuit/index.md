@@ -34,9 +34,10 @@ links:
   url: https://ieeexplore.ieee.org/document/7912237
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=E92QQedSkWE
+url_video: https://www.dropbox.com/s/pkevuodg3qgvvq4/2016_cga_surfcuit.mp4?dl=0  
 url_pdf: ''
-url_project: ''
-url_video: '#'
+
+youtubeid: E92QQedSkWE
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,6 +62,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -70,4 +72,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

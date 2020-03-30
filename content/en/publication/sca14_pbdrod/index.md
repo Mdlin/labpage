@@ -27,18 +27,19 @@ abstract: We present a novel method to simulate complex bending and twisting of 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning 
-- Geometry Processing
+- Physics Simulation
 featured: false
 
 links:
 - name: ACM Digital Library
-  url: https://dl.acm.org/doi/10.1145/3145749.3145758
+  url: https://dl.acm.org/doi/10.5555/2849517.2849522
 - name: YouTube Video
-  url: https://www.youtube.com/watch?v=25xQs0Hs1z0
-url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
-url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
+  url: https://www.youtube.com/watch?v=6f3UYHnR4zU
+url_video: https://www.dropbox.com/s/jkf5v2e3ncxcsrt/2014_sca_PositionBasedElasticRod.mov?dl=0
+url_pdf: https://www.dropbox.com/s/ccq50x7vf63y1q7/2014_sca_PositionBasedElasticRod.pdf?dl=0
 url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
+
+youtubeid: 6f3UYHnR4zU
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,6 +64,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -72,4 +74,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

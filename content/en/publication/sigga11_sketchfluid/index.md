@@ -36,13 +36,14 @@ tags:
 featured: false
 
 links:
+- name: Project Page
+  url: https://www.jst.go.jp/erato/igarashi/en/projects/sketchfluid/index.html
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2070781.2024168
 - name: Vimeo Video
   url: https://vimeo.com/29846540
-url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
-url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
-url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
+url_pdf: https://www.jst.go.jp/erato/igarashi/projects/sketchfluid/sketchfluid.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,6 +68,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -76,4 +78,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

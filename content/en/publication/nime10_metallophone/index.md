@@ -2,6 +2,8 @@
 title: "Designing Custommade Metallophone with Concurrent Eigenanalysis"
 authors:
 - admin
+- Jun Mitani
+- Kenshi Takayama
 - Takeo Igarashi
 date: "2010-07-01T00:00:00Z"
 doi: ""
@@ -19,24 +21,24 @@ publication_types: ["2"]
 publication: In *New Interfaces for Musical Expression++ (NIME++ 2010)*
 publication_short: In *NIME 2010*
 
-abstract: We present a data-driven technique to instantly predict how fluid flows around various three-dimensional objects. Such simulation is useful for computational fabrication and engineering, but is usually computationally expensive since it requires solving the Navier-Stokes equation for many time steps. To accelerate the process, we propose a machine learning framework which predicts aerodynamic forces and velocity and pressure fields given a three-dimensional shape input. Handling detailed free-form three-dimensional shapes in a data-driven framework is challenging because machine learning approaches usually require a consistent parametrization of input and output. We present a novel PolyCube maps-based parametrization that can be computed for three-dimensional shapes at interactive rates. This allows us to efficiently learn the nonlinear response of the flow using a Gaussian process regression. We demonstrate the effectiveness of our approach for the interactive design and optimization of a car body.
+abstract: We introduce an interactive interface for the custom design of metallophones. The shape of each plate must be determined in the design process so that the metallophone will produce the proper tone when struck with a mallet. Unfortunately, the relationship between plate shape and tone is complex, which makes it difficult to design plates with arbitrary shapes. Our system addresses this problem by running a concurrent numerical eigenanalysis during interactive geometry editing. It continuously presents a predicted tone to the user with both visual and audio feedback, thus making it possible to design a plate with any desired shape and tone. We developed this system to demonstrate the effectiveness of integrating real-time finite element method analysis into geometric editing to facilitate the design of custom-made musical instruments. An informal study demonstrated the ability of technically unsophisticated user to apply the system to complex metallophone design.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Machine Learning
-- Geometry Processing
 - Physics Simulation
+- Computational Fabrication
 featured: false
 
 links:
-- name: ACM Digital Library
-  url: https://dl.acm.org/doi/10.1145/3197517.3201325
 - name: YouTube video
-  url: https://www.youtube.com/watch?v=U38cKk-sxyY
-url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
-url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
+  url: https://www.youtube.com/watch?v=7TfMgwuDHS4
+- name: Project Page
+  url: https://www.jst.go.jp/erato/igarashi/en/projects/metallophone/index.html
+url_pdf: https://www.jst.go.jp/erato/igarashi/projects/metallophone/2010-nime.pdf
+
+youtubeid: 7TfMgwuDHS4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,6 +63,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -70,4 +73,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->

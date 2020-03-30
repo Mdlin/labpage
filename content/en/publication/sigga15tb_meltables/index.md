@@ -17,7 +17,7 @@ publishDate: "2015-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SIGGRAPH Asia 2015 Technical Brief Program*
+publication: In *ACM SIGGRAPH Asia 2015 Technical Brief Program*
 publication_short: In *SIGGA 2015 Tech. Brief*
 
 abstract: We propose a new algorithm for converting unstructured triangle meshes into ones with a consistent topology for machine learning applications. We combine the orthogonal depth map computation and the shrink wrapping approach to efficiently and robustly parameterize the triangle geometry regardless of imperfections such as inverted faces, holes, and self-intersections. The converted mesh is consistently and compactly parameterized and thus is suitable for machine learning. We use an autoencoder network to extract the manifold of shapes in the same category to explore and synthesize a variety of shapes. Furthermore, we introduce a direct manipulation interface to navigate the synthesis. We demonstrate our approach with over one thousand car shapes represented in unstructured triangle meshes.
@@ -33,10 +33,11 @@ featured: false
 links:
 - name: ACM Digital Library
   url: https://dl.acm.org/doi/10.1145/2820903.2820915
-- name: YouTube video
+- name: YouTube Video
   url: https://www.youtube.com/watch?v=HDIBm37qkAk
 url_pdf: '#'
-url_video: '#'
+
+youtubeid: HDIBm37qkAk
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,7 +61,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!--
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
@@ -70,4 +71,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
+-->
