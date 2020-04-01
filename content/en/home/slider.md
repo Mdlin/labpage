@@ -49,7 +49,17 @@ height = "500px"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider_clothpattern.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+
+[[item]]
+  title = ""
+  content = "laboratory interior"
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "slider_lab.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.  
 +++
 
