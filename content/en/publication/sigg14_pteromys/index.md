@@ -32,7 +32,7 @@ tags:
 - Computational Fabrication
 - Fluid Dynamics
 - Interactive Modeling
-- Reality Capture
+- Data-driven Animation
 featured: false
 
 links:
