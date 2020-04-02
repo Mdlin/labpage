@@ -75,8 +75,8 @@ email: "n.umetani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- 研究室主催者
+- 訪問者
 ---
 
 コンピュータを使った賢い設計支援や、コンピュータアニメーション、
