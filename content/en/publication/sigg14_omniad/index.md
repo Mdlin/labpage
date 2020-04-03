@@ -39,10 +39,10 @@ links:
   url: https://dl.acm.org/doi/10.1145/2766919
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=OUxsZCNs3Kg
-
-# url_pdf: https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf
-# url_dataset: https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip
-# url_slides: https://www.dropbox.com/s/1px0smk566m92tg/2017_siggatb_ExploringGenerative3DShapes_Slide.pdf
+- name: Slide
+  url: https://www.dropbox.com/s/eacoznrgndwo0wv/2015_sigg_OmniAD_Slide.pdf
+url_pdf: https://www.dropbox.com/s/pjnvwan4pg3c8t5/2015_sigg_OmniAD.pdf
+url_video: https://www.dropbox.com/s/pkevuodg3qgvvq4/2016_cga_surfcuit.mp4
 
 youtubeid: OUxsZCNs3Kg
 

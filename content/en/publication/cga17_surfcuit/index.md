@@ -36,7 +36,7 @@ links:
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=E92QQedSkWE
 url_video: https://www.dropbox.com/s/pkevuodg3qgvvq4/2016_cga_surfcuit.mp4?dl=0  
-url_pdf: ''
+url_pdf: https://www.dropbox.com/s/d42x6a7eqsni9e8/2016_cga_surfcuit.pdf?dl=0
 
 youtubeid: E92QQedSkWE
 

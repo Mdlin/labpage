@@ -5,7 +5,7 @@ authors:
 - admin
 - Ryan Schmidt
 date: "2015-11-01T00:00:00Z"
-doi: "10.1145/2820903.2820915"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-11-01T00:00:00Z"
