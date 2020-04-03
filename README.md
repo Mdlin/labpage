@@ -12,9 +12,11 @@ git commit -m "hogehoge"
 git push
 ```
 
-<strong>Never put large binary file (>10Mb) such as paper PDFs for paper videos. It will freeze the git</strong>
+<strong>Never put large binary files (>10Mb) such as paper PDFs or paper videos. It will freeze the git</strong>
 
+If you mistakenly push large files you can remove it by the procedure descrived in the following article:
 
+[Gitリポジトリから容量の大きいファイルを履歴から抹消する](https://medium.com/eureka-engineering/git%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%8B%E3%82%89%E5%AE%B9%E9%87%8F%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B1%A5%E6%AD%B4%E3%81%8B%E3%82%89%E6%8A%B9%E6%B6%88%E3%81%99%E3%82%8B-b6bb526d670f)
 
 ---
 
