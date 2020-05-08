@@ -10,4 +10,13 @@ height = "80px"
 
 +++
 
-In the field of computer graphics, I have been conducting studies about interactive design systems for various functional objects such as clothing pattern design, furniture design, musical instrument design, and aerodynamical automobile design. The main focus on my resarch is design of computational alrogithm and interaction technique to facilitate creative customized design.
+In the Interactive Graphics and Engineering Laboartory in the <a href="https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml" target="_blank">Creative Informatics Department</a> of the <a href="https://www.u-tokyo.ac.jp/en/" target="_blank">University of Tokyo</a>, we conduct an interdiciplinary research about computer graphics, physics simulation, biomechanics, vision and computational fabrication techniques. 
+
+<H3>News</H3>
+<ul>
+<li>We are recruting hardworking master and Ph.D students. Please take a look at the admission information on the <a href="https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml" target="_blank">the department's page</a>. If there is anything unclear, drop me an <a href="mailto:n.umetani@gmail.com">email</a>. </li>
+</ul>
+
+
+
+
