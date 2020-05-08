@@ -14,7 +14,7 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["研究室主催者",
-                 "Researchers",
+                 "訪問研究員",
                  "Grad Students",
                  "Administration",
                  "Visitors",

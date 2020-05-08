@@ -3,7 +3,7 @@ title: "Pteromys: Interactive Design and Optimization of Free-formed Free-flight
 authors:
 - admin
 - Yuki Koyama
-- Ryan Schdmit
+- Ryan Schmidt
 - Takeo Igarashi
 date: "2014-07-01T00:00:00Z"
 doi: ""

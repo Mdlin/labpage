@@ -243,11 +243,6 @@
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/ryan-schdmit/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//cgenglab.github.io/labpage/en/authors/takeo-igarashi/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -365,6 +360,20 @@
   <url>
     <loc>//cgenglab.github.io/labpage/en/authors/scott-maclachlan/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//cgenglab.github.io/labpage/en/authors/ikkaku/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="//cgenglab.github.io/labpage/ja/authors/ikkaku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//cgenglab.github.io/labpage/en/authors/ikkaku/"
+                />
   </url>
   
   <url>

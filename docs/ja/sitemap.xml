@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>//cgenglab.github.io/labpage/ja/authors/ikkaku/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//cgenglab.github.io/labpage/en/authors/ikkaku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="//cgenglab.github.io/labpage/ja/authors/ikkaku/"
+                />
+  </url>
+  
+  <url>
     <loc>//cgenglab.github.io/labpage/ja/authors/</loc>
     <xhtml:link
                 rel="alternate"
