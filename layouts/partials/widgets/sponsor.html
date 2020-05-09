@@ -1,0 +1,19 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="row featurette">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+  </div>
+  {{ end }}
+
+  <div class="row">
+  <div class="col-12 col-sm-4">
+  	<a href="{{$page.Params.org_url}}" target="_blank">
+  	<img src="{{printf "img/%s" $page.Params.image_url | absURL }}">
+	</a>
+  </div>
+  </div>
+
+</div>
