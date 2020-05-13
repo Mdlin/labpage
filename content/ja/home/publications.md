@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-出版された論文については，<a href="../en/#publication" target="_blank">英語ページ</a>または，<a href="https://scholar.google.com/citations?user=pZyOTEQAAAAJ&hl=en" target="_blank">Google Schalar</a>をご覧下さい．
+出版された論文については，<a href="../en/#publications" target="_blank">英語ページ</a>または，<a href="https://scholar.google.com/citations?user=pZyOTEQAAAAJ&hl=en" target="_blank">Google Schalar</a>をご覧下さい．
