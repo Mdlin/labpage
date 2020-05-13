@@ -15,6 +15,7 @@ In the Interactive Graphics and Engineering Laboartory in the <a href="https://w
 <H3>News</H3>
 <ul>
 <li>We are recruting hardworking master and Ph.D students. Please take a look at the admission information on the <a href="https://www.i.u-tokyo.ac.jp/edu/entra/entra_e.shtml" target="_blank">the department's page</a>. If there is anything unclear, drop me an <a href="mailto:n.umetani@gmail.com">email</a>. </li>
+<li>Introduction of the labratory can be seen <a href="files/labintro2020_en.pdf" target="_blank">here</a></li>
 </ul>
 
 
