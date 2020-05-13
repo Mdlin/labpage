@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 一角　佳成
+title: 一角　佳成
 
 # Username (this should match the folder name)
 authors:

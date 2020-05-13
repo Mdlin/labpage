@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yoshinari Ikkaku
+title: Yoshinari Ikkaku
 
 # Username (this should match the folder name)
 authors:

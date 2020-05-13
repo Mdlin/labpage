@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nobuyuki Umetani
+title: Nobuyuki Umetani
 
 # Username (this should match the folder name)
 authors:
