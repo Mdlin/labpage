@@ -76,7 +76,8 @@ user_groups:
 - Directors
 ---
 
-Nobuyuki Umetani is an associate professor in the University of Tokyo. 
-His research interests include computational fabrication, physics-based animation, machine learning for 3D geometry, data-driven physics modeling, and biomechanical simulation.
+Nobuyuki Umetani is an associate professor at the University of Tokyo. Previously, he was a research scientist at Autodesk Research, leading the Design and Fabrication group. He was a postdoctoral researcher at Autodesk Research and Disney Research Zurich. He received his Ph.D. degree in 2012 from The University of Tokyo under the supervision of Takeo Igarashi. He also spent one year at Columbia University and in TU Delft, and spent three months in Microsoft Research Asia and in UCL. He won the Microsoft Research Asia fellowship in 2011 and AsiaGraphics Young Researcher Award in 2018. The principal research question he addresses through his studies is: how to integrate real-time physical simulation into an interactive geometric modeling procedure to facilitate creativity. He is broadly interested in physics simulation, especially the finite element method, applied for computer animation, biomechanics, and mechanical engineering.
+
+
 
 
