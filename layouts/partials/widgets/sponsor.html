@@ -9,11 +9,22 @@
   {{ end }}
 
   <div class="row">
+  {{ range $item := $page.Params.item }}
+  <div class="col-12 col-sm-3" style="margin:0 auto;">
+    <a href="{{$item.org_url}}" target="_blank">
+    <img src="{{printf "img/%s" $item.image_url | absURL }}">
+  </div>
+  {{end}}
+  </div>
+
+<!--
+  <div class="row">
   <div class="col-12 col-sm-4">
   	<a href="{{$page.Params.org_url}}" target="_blank">
   	<img src="{{printf "img/%s" $page.Params.image_url | absURL }}">
 	</a>
   </div>
   </div>
+-->
 
 </div>

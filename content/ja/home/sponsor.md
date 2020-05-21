@@ -10,6 +10,14 @@ height = "80px"
 image_url = "sponsor_shima.png"
 org_url = "https://www.shimaseiki.co.jp/"
 
+[[item]]  
+  image_url = "sponsor_toyota.png"
+  org_url = "https://toyota.jp/"
+
+[[item]]
+  image_url = "sponsor_shima.png"
+  org_url = "https://www.shimaseiki.co.jp/"
+
 +++
 
 
