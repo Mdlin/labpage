@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifei Chen | Interactive Graphics &amp; Engineering Lab</title>
+    <link>//cgenglab.github.io/labpage/en/authors/yifei/</link>
+      <atom:link href="//cgenglab.github.io/labpage/en/authors/yifei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifei Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright>
+    <image>
+      <url>//cgenglab.github.io/labpage/en/authors/yifei/avatar_huce32f87ed4d2e20c83970cbaa86264f1_887656_270x270_fill_lanczos_center_2.png</url>
+      <title>Yifei Chen</title>
+      <link>//cgenglab.github.io/labpage/en/authors/yifei/</link>
+    </image>
+    
+  </channel>
+</rss>
