@@ -17,72 +17,72 @@
   </url>
   
   <url>
-    <loc>/ja/categories/</loc>
+    <loc>https://cgenglab.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://cgenglab.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/categories/"
+                href="https://cgenglab.github.io/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>/ja/</loc>
+    <loc>https://cgenglab.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://cgenglab.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://cgenglab.github.io/ja/"
                 />
   </url>
   
   <url>
-    <loc>/ja/publication_types/</loc>
+    <loc>https://cgenglab.github.io/ja/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://cgenglab.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/publication_types/"
+                href="https://cgenglab.github.io/ja/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/ja/publication/</loc>
+    <loc>https://cgenglab.github.io/ja/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication/"
+                href="https://cgenglab.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/publication/"
+                href="https://cgenglab.github.io/ja/publication/"
                 />
   </url>
   
   <url>
-    <loc>/ja/tags/</loc>
+    <loc>https://cgenglab.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://cgenglab.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="https://cgenglab.github.io/ja/tags/"
                 />
   </url>
   

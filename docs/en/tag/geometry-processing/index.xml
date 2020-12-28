@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geometry Processing | Interactive Graphics &amp; Engineering Lab</title>
-    <link>/en/tag/geometry-processing/</link>
-      <atom:link href="/en/tag/geometry-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/en/tag/geometry-processing/</link>
+      <atom:link href="https://cgenglab.github.io/en/tag/geometry-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Geometry Processing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>media/logo.png</url>
+      <url>https://cgenglab.github.io/media/logo.png</url>
       <title>Geometry Processing</title>
-      <link>/en/tag/geometry-processing/</link>
+      <link>https://cgenglab.github.io/en/tag/geometry-processing/</link>
     </image>
     
     <item>
       <title>A Curvature and Density‐based Generative Representation of Shapes</title>
-      <link>/en/publication/cgf20_curvature/</link>
+      <link>https://cgenglab.github.io/en/publication/cgf20_curvature/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/publication/cgf20_curvature/</guid>
+      <guid>https://cgenglab.github.io/en/publication/cgf20_curvature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Three-dimensional Flow for Interactive Aerodynamic Design</title>
-      <link>/en/publication/sigg18_mlcfd/</link>
+      <link>https://cgenglab.github.io/en/publication/sigg18_mlcfd/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/en/publication/sigg18_mlcfd/</guid>
+      <guid>https://cgenglab.github.io/en/publication/sigg18_mlcfd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Generative 3D Shapes Using Autoencoder Networks</title>
-      <link>/en/publication/sigga17tb_mlcarshape/</link>
+      <link>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/en/publication/sigga17tb_mlcarshape/</guid>
+      <guid>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
-      <link>/en/publication/cga17_surfcuit/</link>
+      <link>https://cgenglab.github.io/en/publication/cga17_surfcuit/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/en/publication/cga17_surfcuit/</guid>
+      <guid>https://cgenglab.github.io/en/publication/cga17_surfcuit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
-      <link>/en/publication/sigga16_printone/</link>
+      <link>https://cgenglab.github.io/en/publication/sigga16_printone/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/en/publication/sigga16_printone/</guid>
+      <guid>https://cgenglab.github.io/en/publication/sigga16_printone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
-      <link>/en/publication/sigga15tb_meltables/</link>
+      <link>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/en/publication/sigga15tb_meltables/</guid>
+      <guid>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
-      <link>/en/publication/sigga13tb_crossanalysis/</link>
+      <link>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/en/publication/sigga13tb_crossanalysis/</guid>
+      <guid>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</guid>
       <description></description>
     </item>
     
