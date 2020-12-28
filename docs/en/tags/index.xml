@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/en/tags/</link>
-      <atom:link href="https://cgenglab.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/en/tags/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>Tags</title>
-      <link>https://cgenglab.github.io/en/tags/</link>
+      <link>https://cgenglab.github.io/labpage/en/tags/</link>
     </image>
     
   </channel>

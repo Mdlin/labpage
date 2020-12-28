@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Fabrication | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/en/tag/computational-fabrication/</link>
-      <atom:link href="https://cgenglab.github.io/en/tag/computational-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/en/tag/computational-fabrication/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/computational-fabrication/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Fabrication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>Computational Fabrication</title>
-      <link>https://cgenglab.github.io/en/tag/computational-fabrication/</link>
+      <link>https://cgenglab.github.io/labpage/en/tag/computational-fabrication/</link>
     </image>
     
     <item>
       <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
-      <link>https://cgenglab.github.io/en/publication/uist20_tsugite/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/uist20_tsugite/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
-      <link>https://cgenglab.github.io/en/publication/cga17_surfcuit/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cga17_surfcuit/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
-      <link>https://cgenglab.github.io/en/publication/sigga16_printone/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga16_printone/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
-      <link>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_omniad/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_omniad/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_pteromys/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_pteromys/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
-      <link>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guided Exploration of Physically Valid Shapes for Furniture Design</title>
-      <link>https://cgenglab.github.io/en/publication/sigg12_guidedexp/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg12_guidedexp/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
-      <link>https://cgenglab.github.io/en/publication/sigg11_sensitivecouture/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg11_sensitivecouture/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
-      <link>https://cgenglab.github.io/en/publication/nime10_metallophone/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/nime10_metallophone/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/ja/publication/</link>
-      <atom:link href="https://cgenglab.github.io/ja/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/ja/publication/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/ja/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>Publications</title>
-      <link>https://cgenglab.github.io/ja/publication/</link>
+      <link>https://cgenglab.github.io/labpage/ja/publication/</link>
     </image>
     
   </channel>

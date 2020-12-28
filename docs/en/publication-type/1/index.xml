@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/en/publication-type/1/</link>
-      <atom:link href="https://cgenglab.github.io/en/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>1</title>
-      <link>https://cgenglab.github.io/en/publication-type/1/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
     </image>
     
     <item>
       <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
-      <link>https://cgenglab.github.io/en/publication/uist20_tsugite/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/uist20_tsugite/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Generative 3D Shapes Using Autoencoder Networks</title>
-      <link>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_omniad/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_omniad/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Position-based Elastic Rod</title>
-      <link>https://cgenglab.github.io/en/publication/sca14_pbdrod/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sca14_pbdrod/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
-      <link>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Example-Based Elastic Deformation</title>
-      <link>https://cgenglab.github.io/en/publication/sca12_pbdexample/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sca12_pbdexample/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sketch-based Dynamic Illustration of Fluid Systems</title>
-      <link>https://cgenglab.github.io/en/publication/sigga11_sketchfluid/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga11_sketchfluid/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Responsive Finite Element Method to Aid Interactive Geometric Modeling</title>
-      <link>https://cgenglab.github.io/en/publication/cga10_responsivefem/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cga10_responsivefem/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</guid>
       <description></description>
     </item>
     

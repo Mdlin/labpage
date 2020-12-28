@@ -2,173 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/en/publication/</link>
-      <atom:link href="https://cgenglab.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/en/publication/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>Publications</title>
-      <link>https://cgenglab.github.io/en/publication/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/</link>
     </image>
     
     <item>
       <title>A Curvature and Density‐based Generative Representation of Shapes</title>
-      <link>https://cgenglab.github.io/en/publication/cgf20_cosserat/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cgf20_cosserat/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cgf20_cosserat/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cgf20_cosserat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
-      <link>https://cgenglab.github.io/en/publication/uist20_tsugite/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/uist20_tsugite/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Curvature and Density‐based Generative Representation of Shapes</title>
-      <link>https://cgenglab.github.io/en/publication/cgf20_curvature/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cgf20_curvature/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cgf20_curvature/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cgf20_curvature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Three-dimensional Flow for Interactive Aerodynamic Design</title>
-      <link>https://cgenglab.github.io/en/publication/sigg18_mlcfd/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg18_mlcfd/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg18_mlcfd/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg18_mlcfd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Generative 3D Shapes Using Autoencoder Networks</title>
-      <link>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga17tb_mlcarshape/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
-      <link>https://cgenglab.github.io/en/publication/cga17_surfcuit/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cga17_surfcuit/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
-      <link>https://cgenglab.github.io/en/publication/sigga16_printone/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga16_printone/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
-      <link>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga15tb_meltables/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_omniad/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_omniad/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensitivity-optimized Rigging for Example-based Real-time Clothing Synthesis</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_rigging/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_rigging/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_rigging/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_rigging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_pteromys/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_pteromys/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Position-based Elastic Rod</title>
-      <link>https://cgenglab.github.io/en/publication/sca14_pbdrod/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sca14_pbdrod/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
-      <link>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga13tb_crossanalysis/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guided Exploration of Physically Valid Shapes for Furniture Design</title>
-      <link>https://cgenglab.github.io/en/publication/sigg12_guidedexp/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg12_guidedexp/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Example-Based Elastic Deformation</title>
-      <link>https://cgenglab.github.io/en/publication/sca12_pbdexample/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sca12_pbdexample/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sketch-based Dynamic Illustration of Fluid Systems</title>
-      <link>https://cgenglab.github.io/en/publication/sigga11_sketchfluid/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigga11_sketchfluid/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Responsive Finite Element Method to Aid Interactive Geometric Modeling</title>
-      <link>https://cgenglab.github.io/en/publication/cga10_responsivefem/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/cga10_responsivefem/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
-      <link>https://cgenglab.github.io/en/publication/sigg11_sensitivecouture/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg11_sensitivecouture/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
-      <link>https://cgenglab.github.io/en/publication/nime10_metallophone/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/nime10_metallophone/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Multigrid-Based Shifted-Laplacian Preconditioner for a Fourth-Order Helmholtz Discretization</title>
-      <link>https://cgenglab.github.io/en/publication/nlaa08_multigrid/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/nlaa08_multigrid/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/nlaa08_multigrid/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/nlaa08_multigrid/</guid>
       <description></description>
     </item>
     

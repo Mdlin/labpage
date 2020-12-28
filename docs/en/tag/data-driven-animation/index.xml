@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-driven Animation | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/en/tag/data-driven-animation/</link>
-      <atom:link href="https://cgenglab.github.io/en/tag/data-driven-animation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/data-driven-animation/index.xml" rel="self" type="application/rss+xml" />
     <description>Data-driven Animation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Nobuyuki Umetani 2020</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
       <title>Data-driven Animation</title>
-      <link>https://cgenglab.github.io/en/tag/data-driven-animation/</link>
+      <link>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</link>
     </image>
     
     <item>
       <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_omniad/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_omniad/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
-      <link>https://cgenglab.github.io/en/publication/sigg14_pteromys/</link>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cgenglab.github.io/en/publication/sigg14_pteromys/</guid>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
       <description></description>
     </item>
     
