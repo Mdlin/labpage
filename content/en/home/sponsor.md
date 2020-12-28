@@ -7,17 +7,13 @@ weight = 120  # Order that this section will appear in.
 title = "Sponsors"
 height = "80px"
 
-image_url = "sponsor_shima.png"
-org_url = "https://www.shimaseiki.com/"
-
 [[item]]  
   image_url = "sponsor_toyota.png"
   org_url = "https://toyota.com/"
 
 [[item]]
   image_url = "sponsor_shima.png"
-  org_url = "https://www.shimaseiki.com/"
-
+  org_url = "https://www.shimaseiki.com/ "
 +++
 
 

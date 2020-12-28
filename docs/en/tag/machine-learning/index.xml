@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Interactive Graphics &amp; Engineering Lab</title>
+    <link>/en/tag/machine-learning/</link>
+      <atom:link href="/en/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>media/logo.png</url>
+      <title>Machine Learning</title>
+      <link>/en/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>A Curvature and Density‐based Generative Representation of Shapes</title>
+      <link>/en/publication/cgf20_curvature/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/cgf20_curvature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Three-dimensional Flow for Interactive Aerodynamic Design</title>
+      <link>/en/publication/sigg18_mlcfd/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg18_mlcfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Generative 3D Shapes Using Autoencoder Networks</title>
+      <link>/en/publication/sigga17tb_mlcarshape/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigga17tb_mlcarshape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
+      <link>/en/publication/sigg14_omniad/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg14_omniad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity-optimized Rigging for Example-based Real-time Clothing Synthesis</title>
+      <link>/en/publication/sigg14_rigging/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg14_rigging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
+      <link>/en/publication/sigg14_pteromys/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg14_pteromys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

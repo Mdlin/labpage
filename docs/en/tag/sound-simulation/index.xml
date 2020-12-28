@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sound Simulation | Interactive Graphics &amp; Engineering Lab</title>
+    <link>/en/tag/sound-simulation/</link>
+      <atom:link href="/en/tag/sound-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sound Simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>media/logo.png</url>
+      <title>Sound Simulation</title>
+      <link>/en/tag/sound-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
+      <link>/en/publication/sigga16_printone/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigga16_printone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
+      <link>/en/publication/nime10_metallophone/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/en/publication/nime10_metallophone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multigrid-Based Shifted-Laplacian Preconditioner for a Fourth-Order Helmholtz Discretization</title>
+      <link>/en/publication/nlaa08_multigrid/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/en/publication/nlaa08_multigrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

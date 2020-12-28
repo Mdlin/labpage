@@ -3,404 +3,459 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication_types/2/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/bernd-bickel/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/publication-type/2/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/fluid-dynamics/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/publication/cgf20_cosserat/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/geometry-processing/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/"
+                href="/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/interactive-modeling/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg18_mlcfd/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/machine-learning/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/admin/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/admin/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/admin/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/physics-simulation/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/tag/physics-simulation/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication_types/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/publication_types/"
+                href="/ja/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/publication_types/"
+                href="/en/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/publication/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/publication/"
+                href="/ja/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/publication/"
+                href="/en/publication/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <loc>/en/tags/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/tags/"
+                href="/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication_types/1/</loc>
+    <loc>/en/publication-type/1/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/computational-fabrication/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/interactive-modeling/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/uist20_tsugite/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/cgf20_curvature/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/geometry-processing/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/machine-learning/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/fluid-dynamics/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/sigg18_mlcfd/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/sigga17tb_mlcarshape/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/computational-fabrication/</loc>
+    <loc></loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/ryan-schmidt/</loc>
+    <loc>/en/publication/cga17_surfcuit/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</loc>
-    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/athina-panotopoulou/</loc>
+    <loc></loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/emily-whiting/</loc>
+    <loc></loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigga16_printone/</loc>
+    <loc>/en/publication/sigga16_printone/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/sound-simulation/</loc>
+    <loc>/en/tag/sound-simulation/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/andrew-o.-sageman-furnas/</loc>
+    <loc></loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</loc>
+    <loc>/en/publication/sigga15tb_meltables/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/data-driven-animation/</loc>
+    <loc>/en/tag/data-driven-animation/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg14_omniad/</loc>
+    <loc>/en/publication/sigg14_omniad/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/tobias-martin/</loc>
+    <loc></loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/tags/cloth-modeling/</loc>
+    <loc>/en/tag/cloth-modeling/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/jie-mao/</loc>
+    <loc></loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/qianwen-chao/</loc>
+    <loc></loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg14_rigging/</loc>
+    <loc>/en/publication/sigg14_rigging/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/weiwei-xu/</loc>
+    <loc></loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/xiaogang-jin/</loc>
+    <loc></loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/xin-tong/</loc>
+    <loc></loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</loc>
+    <loc>/en/publication/sigg14_pteromys/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/takeo-igarashi/</loc>
+    <loc></loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/yuki-koyama/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/jos-stam/</loc>
+    <loc></loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</loc>
+    <loc>/en/publication/sca14_pbdrod/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</loc>
+    <loc>/en/publication/sigga13tb_crossanalysis/</loc>
     <lastmod>2013-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</loc>
+    <loc>/en/publication/sigg12_guidedexp/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/niloy-j.-mitra/</loc>
+    <loc></loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/kenshi-takayama/</loc>
+    <loc></loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</loc>
+    <loc>/en/publication/sca12_pbdexample/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/bo-zhu/</loc>
+    <loc></loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/kazuo-nakazawa/</loc>
+    <loc></loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/michiaki-iwata/</loc>
+    <loc></loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/ryo-haraguchi/</loc>
+    <loc></loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</loc>
+    <loc>/en/publication/sigga11_sketchfluid/</loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/takashi-ashihara/</loc>
+    <loc></loc>
     <lastmod>2011-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</loc>
+    <loc>/en/publication/cga10_responsivefem/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/jun-mitani/</loc>
+    <loc></loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/danny-kaufman/</loc>
+    <loc></loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/eitan-grinsupn/</loc>
+    <loc></loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</loc>
+    <loc>/en/publication/sigg11_sensitivecouture/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/nime10_metallophone/</loc>
+    <loc>/en/publication/nime10_metallophone/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/publication/nlaa08_multigrid/</loc>
+    <loc>/en/publication/nlaa08_multigrid/</loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/kees-oosterlee/</loc>
+    <loc></loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/scott-maclachlan/</loc>
+    <loc></loc>
     <lastmod>2009-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/categories/"
+                href="/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/yifei/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/yifei/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/yifei/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/en/authors/ikkaku/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/ikkaku/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/ikkaku/"
+                href=""
                 />
   </url>
   

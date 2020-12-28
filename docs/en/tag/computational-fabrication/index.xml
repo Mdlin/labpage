@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Fabrication | Interactive Graphics &amp; Engineering Lab</title>
+    <link>/en/tag/computational-fabrication/</link>
+      <atom:link href="/en/tag/computational-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Fabrication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>media/logo.png</url>
+      <title>Computational Fabrication</title>
+      <link>/en/tag/computational-fabrication/</link>
+    </image>
+    
+    <item>
+      <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
+      <link>/en/publication/uist20_tsugite/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/uist20_tsugite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
+      <link>/en/publication/cga17_surfcuit/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/cga17_surfcuit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
+      <link>/en/publication/sigga16_printone/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigga16_printone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
+      <link>/en/publication/sigga15tb_meltables/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigga15tb_meltables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
+      <link>/en/publication/sigg14_omniad/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg14_omniad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
+      <link>/en/publication/sigg14_pteromys/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg14_pteromys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
+      <link>/en/publication/sigga13tb_crossanalysis/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigga13tb_crossanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Exploration of Physically Valid Shapes for Furniture Design</title>
+      <link>/en/publication/sigg12_guidedexp/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg12_guidedexp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
+      <link>/en/publication/sigg11_sensitivecouture/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sigg11_sensitivecouture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
+      <link>/en/publication/nime10_metallophone/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/en/publication/nime10_metallophone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

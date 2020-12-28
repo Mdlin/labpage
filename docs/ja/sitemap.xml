@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/authors/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/categories/</loc>
+    <loc>/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/categories/"
+                href="/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/</loc>
+    <loc>/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/"
+                href="/ja/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/publication_types/</loc>
+    <loc>/ja/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/publication_types/"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/publication_types/"
+                href="/ja/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/publication/</loc>
+    <loc>/ja/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/publication/"
+                href="/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/publication/"
+                href="/ja/publication/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/tags/</loc>
+    <loc>/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/tags/"
+                href="/ja/tags/"
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/authors/ikkaku/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/ikkaku/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/ikkaku/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/authors/admin/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/admin/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/admin/"
+                href=""
                 />
   </url>
   
   <url>
-    <loc>//cgenglab.github.io/labpage/ja/authors/yifei/</loc>
+    <loc></loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//cgenglab.github.io/labpage/en/authors/yifei/"
+                href=""
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="//cgenglab.github.io/labpage/ja/authors/yifei/"
+                href=""
                 />
   </url>
   

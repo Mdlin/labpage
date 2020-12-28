@@ -2,436 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Interactive Graphics &amp; Engineering Lab</title>
-    <link>//cgenglab.github.io/labpage/en/publication/</link>
-      <atom:link href="//cgenglab.github.io/labpage/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/en/publication/</link>
+      <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><copyright>Nobuyuki Umetani © 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//cgenglab.github.io/labpage/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>media/logo.png</url>
       <title>Publications</title>
-      <link>//cgenglab.github.io/labpage/en/publication/</link>
+      <link>/en/publication/</link>
     </image>
     
     <item>
+      <title>A Curvature and Density‐based Generative Representation of Shapes</title>
+      <link>/en/publication/cgf20_cosserat/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/cgf20_cosserat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
+      <link>/en/publication/uist20_tsugite/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/uist20_tsugite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Curvature and Density‐based Generative Representation of Shapes</title>
+      <link>/en/publication/cgf20_curvature/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/cgf20_curvature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Three-dimensional Flow for Interactive Aerodynamic Design</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg18_mlcfd/</link>
+      <link>/en/publication/sigg18_mlcfd/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg18_mlcfd/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg18_mlcfd/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Exploring Generative 3D Shapes Using Autoencoder Networks</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</link>
+      <link>/en/publication/sigga17tb_mlcarshape/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigga17tb_mlcarshape/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigga17tb_mlcarshape/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
-      <link>//cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</link>
+      <link>/en/publication/cga17_surfcuit/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/cga17_surfcuit/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigga16_printone/</link>
+      <link>/en/publication/sigga16_printone/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigga16_printone/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>/en/publication/sigga16_printone/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</link>
+      <link>/en/publication/sigga15tb_meltables/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigga15tb_meltables/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>OmniAD: Data-driven Omni-directional Aerodynamics</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg14_omniad/</link>
+      <link>/en/publication/sigg14_omniad/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg14_omniad/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg14_omniad/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sensitivity-optimized Rigging for Example-based Real-time Clothing Synthesis</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg14_rigging/</link>
+      <link>/en/publication/sigg14_rigging/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg14_rigging/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg14_rigging/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
+      <link>/en/publication/sigg14_pteromys/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg14_pteromys/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Position-based Elastic Rod</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</link>
+      <link>/en/publication/sca14_pbdrod/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>/en/publication/sca14_pbdrod/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</link>
+      <link>/en/publication/sigga13tb_crossanalysis/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigga13tb_crossanalysis/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Guided Exploration of Physically Valid Shapes for Furniture Design</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</link>
+      <link>/en/publication/sigg12_guidedexp/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg12_guidedexp/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Real-Time Example-Based Elastic Deformation</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</link>
+      <link>/en/publication/sca12_pbdexample/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sca12_pbdexample/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sketch-based Dynamic Illustration of Fluid Systems</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</link>
+      <link>/en/publication/sigga11_sketchfluid/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigga11_sketchfluid/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>A Responsive Finite Element Method to Aid Interactive Geometric Modeling</title>
-      <link>//cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</link>
+      <link>/en/publication/cga10_responsivefem/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>/en/publication/cga10_responsivefem/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
-      <link>//cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</link>
+      <link>/en/publication/sigg11_sensitivecouture/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/sigg11_sensitivecouture/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
-      <link>//cgenglab.github.io/labpage/en/publication/nime10_metallophone/</link>
+      <link>/en/publication/nime10_metallophone/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/nime10_metallophone/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/nime10_metallophone/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>A Multigrid-Based Shifted-Laplacian Preconditioner for a Fourth-Order Helmholtz Discretization</title>
-      <link>//cgenglab.github.io/labpage/en/publication/nlaa08_multigrid/</link>
+      <link>/en/publication/nlaa08_multigrid/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>//cgenglab.github.io/labpage/en/publication/nlaa08_multigrid/</guid>
-      <description>&lt;!--
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
---&gt;
-</description>
+      <guid>/en/publication/nlaa08_multigrid/</guid>
+      <description></description>
     </item>
     
   </channel>

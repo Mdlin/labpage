@@ -3,17 +3,14 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 [en]
-  languageCode = "en"
-  baseurl = "//cgenglab.github.io/labpage/en/"
-  contentDir = "content/en" 
-  canonifyurls = true
-  address_format = "en-us"
-  
+  languageCode = "en-us"
+  contentDir = "content/en"
+
+# Uncomment the lines below to configure your website in a second language.
 [ja]
   languageCode = "ja"
-  baseurl = "//cgenglab.github.io/labpage/ja/"	    
   contentDir = "content/ja"
   canonifyurls = true  
   address = {street = "弥生１丁目1-1　東京大学　農学部キャンパス　I-REF棟 5階", city = "文京区", region = "東京都", postcode = "〒113-8657", country = "日本", country_code = "JP"}
   directions = "面会の方は、I-REF棟２階の事務室から呼び出して下さい"
-  address_format = "ja"
+#  address_format = "ja"
