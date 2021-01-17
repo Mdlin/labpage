@@ -77,7 +77,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -88,14 +88,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -233,8 +233,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -242,7 +242,8 @@
   
   
   
-  <link rel="stylesheet" href="/labpage/css/wowchemy.min.973175174bc6bb29ba2840c7c9b6ac69.css">
+  
+  <link rel="stylesheet" href="/labpage/css/wowchemy.e4507eea98b757f3912687e888c4408e.css">
 
   
 
@@ -261,7 +262,10 @@
   <link rel="alternate" href="/labpage/en/index.xml" type="application/rss+xml" title="Interactive Graphics &amp; Engineering Lab">
   
 
+  
   <link rel="manifest" href="/labpage/en/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/labpage/images/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/labpage/images/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_192x192_fill_lanczos_center_2.png">
 
@@ -328,9 +332,14 @@
   
   
   
-  <script src="/labpage/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/labpage/js/wowchemy-init.min.7d92a95e871a711a5c03f82410d0fe5d.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -339,16 +348,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -360,6 +375,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -377,7 +393,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -542,7 +558,8 @@
 
       
       <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link " data-toggle="dropdown" aria-haspopup="true">
+        <a href="#" class="nav-link " data-toggle="dropdown"
+           aria-haspopup="true" aria-label="Languages">
           <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
         <div class="dropdown-menu">
           <div class="dropdown-item dropdown-item-active">
@@ -596,6 +613,8 @@
   
   
   
+  
+
   
 
   
@@ -802,6 +821,8 @@
   
 
   
+
+  
   
 
   
@@ -865,6 +886,8 @@
   
   
   
+  
+
   
 
   
@@ -1021,7 +1044,7 @@
 
       
       <div class="col-md-5">
-        <h3>Interests</h3>
+        <div class="section-subheading">Interests</div>
         <ul class="ul-interests">
           
           <li>Computational Fabrication</li>
@@ -1038,7 +1061,7 @@
 
       
       <div class="col-md-7">
-        <h3>Education</h3>
+        <div class="section-subheading">Education</div>
         <ul class="ul-edu fa-ul">
           
           <li>
@@ -1082,6 +1105,8 @@
   
   
   
+  
+
   
 
   
@@ -1267,6 +1292,8 @@
   
 
   
+
+  
   
 
   
@@ -1370,7 +1397,9 @@
 
   
     
-      <div class="pub-list-item" style="margin-bottom: 1rem">
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
@@ -1429,7 +1458,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14133" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14133" target="_blank" rel="noopener">
     
     Wiley Online Library
   </a>
@@ -1443,7 +1472,9 @@
     
   
     
-      <div class="pub-list-item" style="margin-bottom: 1rem">
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
@@ -1501,7 +1532,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ma-la.com/tsugite.html" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://ma-la.com/tsugite.html" target="_blank" rel="noopener">
     
     Project Page
   </a>
@@ -1517,7 +1548,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/10.1145/3379337.3415899" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3379337.3415899" target="_blank" rel="noopener">
     
     ACM Digital Library
   </a>
@@ -1533,7 +1564,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=kR-fwwoKyHk" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=kR-fwwoKyHk" target="_blank" rel="noopener">
     
     YouTube Video
   </a>
@@ -1547,7 +1578,9 @@
     
   
     
-      <div class="pub-list-item" style="margin-bottom: 1rem">
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
@@ -1605,7 +1638,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/cgf.14094" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/cgf.14094" target="_blank" rel="noopener">
     
     Wiley Online Library
   </a>
@@ -1619,7 +1652,9 @@
     
   
     
-      <div class="pub-list-item" style="margin-bottom: 1rem">
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
@@ -1651,7 +1686,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1685,7 +1720,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/10.1145/3197517.3201325" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3197517.3201325" target="_blank" rel="noopener">
     
     ACM Digital Library
   </a>
@@ -1701,7 +1736,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=U38cKk-sxyY" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=U38cKk-sxyY" target="_blank" rel="noopener">
     
     YouTube Video
   </a>
@@ -1715,7 +1750,9 @@
     
   
     
-      <div class="pub-list-item" style="margin-bottom: 1rem">
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
@@ -1746,7 +1783,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.dropbox.com/s/b2etb0906u476fi/2017_siggatb_ExploringGenerative3DShapes.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1758,7 +1795,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.dropbox.com/s/ygn5fq8njr8ck52/2017_siggatb_ExploringGenerative3Dshapes_Objs.zip" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -1788,7 +1825,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://dl.acm.org/doi/10.1145/3145749.3145758" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/10.1145/3145749.3145758" target="_blank" rel="noopener">
     
     ACM Digital Library
   </a>
@@ -1804,7 +1841,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=25xQs0Hs1z0" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=25xQs0Hs1z0" target="_blank" rel="noopener">
     
     YouTube Video
   </a>
@@ -1850,6 +1887,8 @@
   
   
   
+  
+
   
 
   
@@ -2010,6 +2049,8 @@
   
 
   
+
+  
   
 
   
@@ -2095,6 +2136,8 @@
   
 
   
+
+  
   
 
   
@@ -2166,7 +2209,7 @@
     
     <li>
       <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
-      <span id="person-email"><a href="mailto:n.umetani@mail.com">n.umetani@mail.com</a></span>
+      <span id="person-email"><a href="mailto:n.umetani@gmail.com">n.umetani@gmail.com</a></span>
     </li>
     
 
@@ -2231,7 +2274,7 @@
   
 
   <p class="powered-by">
-    © Nobuyuki Umetani 2020
+    © Nobuyuki Umetani 2021
   </p>
 
   
@@ -2319,42 +2362,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/labpage/en/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -2367,15 +2386,27 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -2389,11 +2420,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/labpage/js/wowchemy.min.abf79d5abd9391a904c9b122bfe98c04.js"></script>
+    <script src="/labpage/en/js/wowchemy.min.4f90f6981bfa56497db1949ad2980162.js"></script>
 
     
 

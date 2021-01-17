@@ -75,7 +75,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -86,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -231,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/labpage/css/wowchemy.min.973175174bc6bb29ba2840c7c9b6ac69.css">
+  
+  <link rel="stylesheet" href="/labpage/css/wowchemy.e4507eea98b757f3912687e888c4408e.css">
 
   
 
@@ -257,7 +258,10 @@
 
   
 
+  
   <link rel="manifest" href="/labpage/en/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/labpage/images/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/labpage/images/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_192x192_fill_lanczos_center_2.png">
 
@@ -360,9 +364,14 @@
   
   
   
-  <script src="/labpage/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/labpage/js/wowchemy-init.min.7d92a95e871a711a5c03f82410d0fe5d.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -371,16 +380,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -392,6 +407,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -409,7 +425,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -673,15 +689,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <div class="btn-links mb-3">
   
   
@@ -699,7 +706,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.dropbox.com/s/fiehkichmyh8czy/2013_siggatb_CrossSectionalAnalysis.pdf?dl=0" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://www.dropbox.com/s/fiehkichmyh8czy/2013_siggatb_CrossSectionalAnalysis.pdf?dl=0" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -733,7 +740,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://dl.acm.org/doi/10.1145/2766919" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://dl.acm.org/doi/10.1145/2766919" target="_blank" rel="noopener">
     
     ACM Digital Library
   </a>
@@ -749,7 +756,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=Y1zFrMkJ0YU" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=Y1zFrMkJ0YU" target="_blank" rel="noopener">
     
     YouTube Video
   </a>
@@ -1064,7 +1071,7 @@
   
 
   <p class="powered-by">
-    © Nobuyuki Umetani 2020
+    © Nobuyuki Umetani 2021
   </p>
 
   
@@ -1152,42 +1159,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/labpage/en/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -1200,15 +1183,27 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -1222,11 +1217,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/labpage/js/wowchemy.min.abf79d5abd9391a904c9b122bfe98c04.js"></script>
+    <script src="/labpage/en/js/wowchemy.min.4f90f6981bfa56497db1949ad2980162.js"></script>
 
     
 
