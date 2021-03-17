@@ -39,8 +39,10 @@ links:
   url: https://dl.acm.org/doi/10.1145/2601097.2601136
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=Ys04FyV5a8A
-url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
-url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
+- name: Slide
+  url: https://www.dropbox.com/s/8eq1qzg17rstfqa/2014_siggraph_SensitivityClothRig_presen.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/kwuig3d21184iqd/2014_siggraph_SensitivityClothRig.pdf?dl=0
+
 
 youtubeid: Ys04FyV5a8A
 
