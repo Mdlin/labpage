@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/labpage/media/logo.png</url>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Data-driven Garment Pattern Estimation from 3D Geometries</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/eg21short_clothpattern/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/eg21short_clothpattern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
