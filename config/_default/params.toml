@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bldg. I-REF 5th floor, 1-1-1 Yayoi (<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google Map</a>)", city = "Bunkyo", region = "Tokyo", postcode = "113-8657", country = "Japan", country_code = "JP"}
+address = {street = "Bldg. I-REF 5th floor, 1-1-1 Yayoi", city = "Bunkyo", region = "Tokyo", postcode = "113-8657 (<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google Map</a>)", country = "Japan", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
