@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "n.umetani@gmail.com"
+email = "umetani@ci.i.u-tokyo.ac.jp"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bldg. I-REF 5th floor, 1-1-1 Yayoi", city = "Bunkyo", region = "Tokyo", postcode = "113-8657", country = "Japan", country_code = "JP"}
+address = {street = "Bldg. I-REF 5th floor, 1-1-1 Yayoi (<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google Map</a>)", city = "Bunkyo", region = "Tokyo", postcode = "113-8657", country = "Japan", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -201,6 +201,8 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+link_authors = true
+
 ############################
 ## Comments
 ############################
@@ -260,7 +262,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = "2"
   api_key = ""
   zoom = 15
 
