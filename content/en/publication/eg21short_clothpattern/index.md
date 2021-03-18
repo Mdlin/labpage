@@ -6,6 +6,9 @@ authors:
 date: "2021-04-01T00:00:00Z"
 doi: ""
 
+# Link authors to their profile page? (true/false)
+link_authors: false
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-16T00:00:00Z"
 

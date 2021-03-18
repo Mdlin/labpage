@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takeo Igarashi | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/takeo-igarashi/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/takeo-igarashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takeo Igarashi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Takeo Igarashi</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/takeo-igarashi/</link>
+    </image>
+    
+    <item>
+      <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist20_tsugite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Curvature and Density‐based Generative Representation of Shapes</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/cgf20_curvature/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cgf20_curvature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Exploration of Physically Valid Shapes for Furniture Design</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg12_guidedexp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Example-Based Elastic Deformation</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch-based Dynamic Illustration of Fluid Systems</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga11_sketchfluid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Responsive Finite Element Method to Aid Interactive Geometric Modeling</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

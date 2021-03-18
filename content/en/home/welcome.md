@@ -10,7 +10,7 @@ height = "80px"
 
 +++
 
-In the Interactive Graphics and Engineering Laboartory in the <a href="https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml" target="_blank">Creative Informatics Department</a> of the <a href="https://www.u-tokyo.ac.jp/en/" target="_blank">University of Tokyo</a>, we conduct an interdiciplinary research about computer graphics, physics simulation, biomechanics, vision and computational fabrication techniques. 
+The Interactive Graphics and Engineering Laboartory is in the <a href="https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml" target="_blank">Creative Informatics Department</a> of the <a href="https://www.u-tokyo.ac.jp/en/" target="_blank">University of Tokyo</a> and is lead by <a href="authors/admin">Nobuyuki Umetani</a>. We conduct interdiciplinary research about computer graphics, physics simulation, biomechanics, machine learning, vision and computational fabrication techniques. 
 
 <H3>News</H3>
 <ul>

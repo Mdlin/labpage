@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一角　佳成 | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/ja/authors/ikkaku/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/ja/authors/ikkaku/index.xml" rel="self" type="application/rss+xml" />
+    <description>一角　佳成</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© Nobuyuki Umetani 2021</copyright>
+    <image>
+      <url>https://cgenglab.github.io/labpage/ja/authors/ikkaku/avatar_huf1a3f7237334a20cfabe9d7d561b5fd4_175252_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>一角　佳成</title>
+      <link>https://cgenglab.github.io/labpage/ja/authors/ikkaku/</link>
+    </image>
+    
+  </channel>
+</rss>

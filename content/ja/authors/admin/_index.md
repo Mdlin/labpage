@@ -64,6 +64,9 @@ email: "n.umetani@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups:
+  - 研究室主催者
 ---
 
 2012年東京大学情報理工学系研究科博士後期課程終了．オートデスク研究所の主任研究員などを経て，現在，東京大学情報理工学系研究科准教授．博士（コンピュータ科学）．コンピュータを使った賢い設計支援や、物理シミュレーション、デジタル表現の支援を研究しています。

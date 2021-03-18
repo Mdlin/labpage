@@ -61,8 +61,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "n.umetani@gmail.com"
 
-# user_groups:
-# - Directors
+user_groups:
+ - Director
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

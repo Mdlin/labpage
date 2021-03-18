@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danny Kaufman | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/danny-kaufman/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/danny-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danny Kaufman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Danny Kaufman</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/danny-kaufman/</link>
+    </image>
+    
+    <item>
+      <title>Sensitive Couture for Interactive Garment Editing and Modeling</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg11_sensitivecouture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

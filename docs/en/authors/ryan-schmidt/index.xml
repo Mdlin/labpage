@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Schmidt | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/ryan-schmidt/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/ryan-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Schmidt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Ryan Schmidt</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/ryan-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>SurfCuit: Surface-Mounted Circuits on 3D Prints</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga17_surfcuit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga16_printone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meltables: Fabrication of Complex 3D Curves by Melting</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pteromys: Interactive Design and Optimization of Free-formed Free-flight Model Airplanes</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigg14_pteromys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position-based Elastic Rod</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca14_pbdrod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sectional Structural Analysis for 3D Printing Optimization</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga13tb_crossanalysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenshi Takayama | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/kenshi-takayama/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/kenshi-takayama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenshi Takayama</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Kenshi Takayama</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/kenshi-takayama/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Example-Based Elastic Deformation</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sca12_pbdexample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Responsive Finite Element Method to Aid Interactive Geometric Modeling</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cga10_responsivefem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Custommade Metallophone with Concurrent Eigenanalysis</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/nime10_metallophone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

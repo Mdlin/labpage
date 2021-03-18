@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiong Chen | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/jiong-chen/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/jiong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiong Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiong Chen</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/jiong-chen/</link>
+    </image>
+    
+    <item>
+      <title>A Curvature and Density‐based Generative Representation of Shapes</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/cgf20_cosserat/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/cgf20_cosserat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
