@@ -26,7 +26,7 @@ publication_short: In *SIGGRAPH 2014*
 abstract: We present a real-time solution for generating detailed clothing deformations from pre-computed clothing shape examples. Given an input pose, it synthesizes a clothing deformation by blending skinned clothing deformations of nearby examples controlled by the body skeleton. Observing that cloth deformation can be well modeled with sensitivity analysis driven by the underlying skeleton, we introduce a sensitivity based method to construct a pose-dependent rigging solution from sparse examples. We also develop a sensitivity based blending scheme to find nearby examples for the input pose and evaluate their contributions to the result. Finally, we propose a stochastic optimization based greedy scheme for sampling the pose space and generating example clothing shapes. Our solution is fast, compact and can generate realistic clothing animation results for various kinds of clothes in real time.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Machine Learning

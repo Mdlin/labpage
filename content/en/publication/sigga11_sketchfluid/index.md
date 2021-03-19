@@ -28,7 +28,7 @@ publication_short: In *SIGG. Asia 2011*
 abstract: This paper presents a lightweight sketching system that enables interactive illustration of complex fluid systems. Users can sketch on a 2.5-dimensional (2.5D) canvas to design the shapes and connections of a fluid circuit. These input sketches are automatically analyzed and abstracted into a hydraulic graph, and a new hybrid fluid model is used in the background to enhance the illustrations. The system provides rich simple operations for users to edit the fluid system incrementally, and the new internal flow patterns can be simulated in real time. Our system is used to illustrate various fluid systems in medicine, biology, and engineering. We asked professional medical doctors to try our system and obtained positive feedback from them.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

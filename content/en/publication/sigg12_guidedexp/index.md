@@ -23,7 +23,7 @@ publication_short: In *SIGGRAPH 2012*
 abstract: Geometric modeling and the physical validity of shapes are traditionally considered independently. This makes creating aesthetically pleasing yet physically valid models challenging. We propose an interactive design framework for efficient and intuitive exploration of geometrically and physically valid shapes. During any geometric editing operation, the proposed system continuously visualizes the valid range of the parameter being edited. When one or more constraints are violated after an operation, the system generates multiple suggestions involving both discrete and continuous changes to restore validity. Each suggestion also comes with an editing mode that simultaneously adjusts multiple parameters in a coordinated way to maintain validity. Thus, while the user focuses on the aesthetic aspects of the design, our computational design framework helps to achieve physical realizability by providing active guidance to the user. We demonstrate our framework on plank-based furniture design with nail-joint and frictional constraints. We use our system to design a range of examples, conduct a user study, and also fabricate a physical prototype to test the validity and usefulness of the system.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

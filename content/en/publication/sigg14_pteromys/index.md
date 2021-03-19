@@ -24,7 +24,7 @@ publication_short: In *SIGGRAPH 2014*
 abstract: This paper introduces novel interactive techniques for designing original hand-launched free-flight glider airplanes which can actually fly. The aerodynamic properties of a glider aircraft depend on their shape, imposing significant design constraints. We present a compact and efficient representation of glider aerodynamics that can be fit to real-world conditions using a data-driven method. To do so, we acquire a sample set of glider flight trajectories using a video camera and the system learns a nonlinear relationship between forces on the wing and wing shape. Our acquisition system is much simpler to construct than a wind tunnel, but using it we can efficiently discover a wing model for simple gliding aircraft. Our resulting model can handle general free-form wing shapes and yet agrees sufficiently well with the acquired airplane flight trajectories. Based on this compact aerodynamics model, we present a design tool in which the wing configuration created by a user is interactively optimized to maximize flight-ability. To demonstrate the effectiveness of our tool for glider design by novice users, we compare it with a traditional design workflow.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Machine Learning

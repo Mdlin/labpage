@@ -25,7 +25,7 @@ publication_short: In *CG&A 2011*
 abstract: Current computer-aided engineering systems use numerical-simulation methods mainly as offline verification tools to reject designs that don't satisfy the required constraints, rather than as tools to guide users toward better designs. However, integrating real-time finite element method (FEM) into interactive geometric modeling can provide user guidance. During interactive editing, real-time feedback from numerical simulation guides users toward an improved design without tedious trial-and-error iterations. Careful reuse of previous computation results, such as meshes and matrices, on the basis of speed and accuracy trade-offs, have helped produce fast FEM analysis during interactive editing. Several 2D example applications and informal user studies show this approach's effectiveness. Such tools could help nonexpert users design objects that satisfy physical constraints and help those users understand the underlying physical properties.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

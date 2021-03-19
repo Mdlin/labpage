@@ -24,7 +24,7 @@ publication_short: In *SCA 2014*
 abstract: We present a novel method to simulate complex bending and twisting of elastic rods. Elastic rods are commonly simulated using force based methods, such as the finite element method. These methods are accurate, but do not directly fit into the more efficient position-based dynamics framework, since the definition of material frames are not entirely based on positions. We introduce ghost points, which are additional points defined on edges, to naturally endow continuous material frames on discretized rods. We achieve robustness by a novel discretization of the Cosserat theory. The method supports coupling with a frame, a triangle, and a rigid body at the rod’s end point. Our formulation is highly efficient, capable of simulating hundreds of strands in real-time.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

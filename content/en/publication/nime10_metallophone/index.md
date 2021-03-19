@@ -24,7 +24,7 @@ publication_short: In *NIME 2010*
 abstract: We introduce an interactive interface for the custom design of metallophones. The shape of each plate must be determined in the design process so that the metallophone will produce the proper tone when struck with a mallet. Unfortunately, the relationship between plate shape and tone is complex, which makes it difficult to design plates with arbitrary shapes. Our system addresses this problem by running a concurrent numerical eigenanalysis during interactive geometry editing. It continuously presents a predicted tone to the user with both visual and audio feedback, thus making it possible to design a plate with any desired shape and tone. We developed this system to demonstrate the effectiveness of integrating real-time finite element method analysis into geometric editing to facilitate the design of custom-made musical instruments. An informal study demonstrated the ability of technically unsophisticated user to apply the system to complex metallophone design.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

@@ -25,7 +25,7 @@ publication_short: In *SCA 2012*
 abstract: We present an example-based elastic deformation method that runs in real time. Example-based elastic deformation was originally presented by Martin et al. [MTGG11], where an artist can intuitively control elastic material behaviors by simply giving example poses. Their FEM-based approach is, however, computationally expensive requiring nonlinear optimization, which hinders its use in real-time applications such as games. Our contribution is to formulate an analogous concept using the shape matching framework, which is fast, robust, and easy to implement. The key observation is that each overlapping local region's right stretch tensor obtained by polar decomposition is a natural choice for a deformation descriptor. This descriptor allows us to represent the pose space as a linear blending of examples. At each time step, the current deformation descriptor is linearly projected onto the example manifold, and then used to modify the rest shape of each local region when computing goal positions. Our approach is two orders of magnitude faster than Martin et al.'s approach while producing comparable example-based elastic deformations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation

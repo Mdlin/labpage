@@ -22,7 +22,7 @@ publication_short: In *IEEE CG&A*
 abstract: The SurfCuit system integrates circuits into 3D prints by mounting them on the printed surface. SurfCuit does not require tedious circuit casing design or expensive setups, allowing users to build complex, highly conductive circuit patterns for consumer-level desktop fused decomposition modeling (FDM) 3D printers and thus expediting the process of circuit construction for 3D models.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Geometry Processing

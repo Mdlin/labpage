@@ -25,7 +25,7 @@ publication_short: In *EG 2021 short*
 abstract: Three-dimensional scanning technology recently becomes widely available to the public. However, it is difficult to simulate clothing deformation from the scanned people because scanned data lacks information required for the clothing simulation. In this paper, we present a technique to estimate clothing patterns from a scanned person in cloth. Our technique uses image-based deep learning to estimate the type of pattern on the projected image. The key contribution is converting image-based inference into three-dimensional clothing pattern estimation. We evaluate our technique by applying our technique to an actual scan. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a technique to estimate clothing patterns from a 3D geometry of a person in cloth. Our technique uses image-based deep learning to estimate the type of pattern on the projected image. 
 
 tags:
 - Cloth Modeling

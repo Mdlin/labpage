@@ -22,7 +22,7 @@ publication_short: In *SIGG. Asia 2013 Tech. Brief*
 abstract: We propose a novel cross-sectional structural analysis technique that efficiently detects critical stress inside a 3D object. We slice the object into cross-sections and compute stress based on bending momentum equilibrium. Unlike traditional approaches based on finite element methods, our method doesn’t require a volumetric mesh or solution of linear systems, enabling interactive analysis speed. Based on the stress analysis, the orientation of an object is optimized to increase mechnanical strength when manufactured with 3D printing.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Geometry Processing

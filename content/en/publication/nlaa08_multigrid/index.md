@@ -23,7 +23,7 @@ publication_short: In *NLAA*
 abstract: In this paper, an iterative solution method for a fourth‐order accurate discretization of the Helmholtz equation is presented. The method is a generalization of that presented in (SIAM J. Sci. Comput. 2006; 27:1471–1492), where multigrid was employed as a preconditioner for a Krylov subspace iterative method. The multigrid preconditioner is based on the solution of a second Helmholtz operator with a complex‐valued shift. In particular, we compare preconditioners based on a point‐wise Jacobi smoother with those using an ILU(0) smoother, we compare using the prolongation operator developed by de Zeeuw in (J. Comput. Appl. Math. 1990; 33:1–27) with interpolation operators based on algebraic multigrid principles, and we compare the performance of the Krylov subspace method Bi‐conjugate gradient stabilized with the recently introduced induced dimension reduction method, IDR(s). These three improvements are combined to yield an efficient solver for heterogeneous problems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Physics Simulation
