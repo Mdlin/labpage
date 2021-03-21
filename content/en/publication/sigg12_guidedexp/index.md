@@ -36,7 +36,7 @@ links:
   url: https://dl.acm.org/doi/10.1145/2185520.2185582
 - name: YouTube video
   url: https://www.youtube.com/watch?v=OJ3vBnbc3fw
-url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
+url_pdf: https://www.dropbox.com/s/1rran2gx6847c65/2012_sigg_GuidedExploration.pdf?dl=0
 url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
 
 youtubeid: OJ3vBnbc3fw

@@ -35,16 +35,16 @@ links:
   url: https://dl.acm.org/doi/10.1145/2820903.2820915
 - name: YouTube Video
   url: https://www.youtube.com/watch?v=HDIBm37qkAk
-url_pdf: '#'
+url_pdf: https://www.dropbox.com/s/whx3umnavdczs8s/2015_siggtb_meltables.pdf?dl=0
 
 youtubeid: HDIBm37qkAk
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

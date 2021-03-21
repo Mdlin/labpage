@@ -40,10 +40,10 @@ links:
   url: https://dl.acm.org/doi/10.1145/3197517.3201325
 - name: YouTube video
   url: https://www.youtube.com/watch?v=-KJUVJAUY8o
-url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
-url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
-
+- name: Slides
+  url: https://www.dropbox.com/s/smig6hjks541siu/2014_sigg_gliderDesign_presen.pdf?dl=0
 youtubeid: -KJUVJAUY8o
+url_pdf: https://www.dropbox.com/s/dxvnskkmnqidpe0/2014_sigg_GliderDesign.pdf?dl=0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

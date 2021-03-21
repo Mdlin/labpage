@@ -38,8 +38,9 @@ links:
   url: https://dl.acm.org/doi/10.1145/2010324.1964985
 - name: YouTube video
   url: https://www.youtube.com/watch?v=u4QL9RAzTKM
-url_pdf: https://www.dropbox.com/s/ndyk2lvdv6f3741/2018_sigg_Learning3DAerodynamics.pdf
-url_slides: https://www.dropbox.com/s/endkt45yfoxj0fq/2018_sigg_mlcfd_slides.pdf
+- name: Slides 
+  url: https://www.dropbox.com/s/ya8ip3y4yuwbu6q/2011_sigg_SensitiveCouture_Slides.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/i5rwgb8tetwui9r/2011_sigg_SensitiveCouture.pdf?dl=0
 
 youtubeid: u4QL9RAzTKM
 
