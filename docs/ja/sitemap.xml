@@ -101,6 +101,20 @@
   </url>
   
   <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/smukherjee2016/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/smukherjee2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/smukherjee2016/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cgenglab.github.io/labpage/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -129,6 +143,20 @@
   </url>
   
   <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/nnkgw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/nnkgw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/nnkgw/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/admin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,6 +167,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/moroto/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/moroto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
                 />
   </url>
   

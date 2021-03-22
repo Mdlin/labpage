@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuji Moroto | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/moroto/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/moroto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuji Moroto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright>
+    <image>
+      <url>https://cgenglab.github.io/labpage/en/authors/moroto/avatar_hu14364d05f317e3866bac82584f7a5455_106051_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuji Moroto</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/moroto/</link>
+    </image>
+    
+  </channel>
+</rss>

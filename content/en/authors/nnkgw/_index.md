@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rex West
+title: Nobuo Nakagawa
 
 # Username (this should match the folder name)
-authors:
-- rexwest
+authors: 
+- nnkgw
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D Student (2nd year)
+role: Ph.D Student (3rd year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,13 +26,6 @@ role: Ph.D Student (2nd year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 博士学生
+- Doctor Students
 ---
-
-<a href="http://cv.rexwe.st/">My Personal Page<a>
-
-
-
-
-
 

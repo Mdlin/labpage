@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rex West
+title: Sabyasachi Mukherjee
 
 # Username (this should match the folder name)
-authors:
-- rexwest
+authors: 
+- smukherjee2016
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D Student (2nd year)
+role: Ph.D Student (3rd year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ user_groups:
 - 博士学生
 ---
 
-<a href="http://cv.rexwe.st/">My Personal Page<a>
+<a href="http://graphics.ci.i.u-tokyo.ac.jp/smukherjee/">My Personal Page<a>
 
 
 

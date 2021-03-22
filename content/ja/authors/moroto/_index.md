@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Rex West
+title: 諸戸　雄治
 
 # Username (this should match the folder name)
-authors:
-- rexwest
+authors: 
+- moroto
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D Student (2nd year)
+role: Ph.D Student (1st year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,11 +28,4 @@ role: Ph.D Student (2nd year)
 user_groups:
 - 博士学生
 ---
-
-<a href="http://cv.rexwe.st/">My Personal Page<a>
-
-
-
-
-
 
