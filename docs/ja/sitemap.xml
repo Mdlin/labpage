@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/meistdan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/meistdan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/meistdan/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cgenglab.github.io/labpage/ja/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,6 +83,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cgenglab.github.io/labpage/ja/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/rexwest/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/rexwest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/rexwest/"
                 />
   </url>
   
