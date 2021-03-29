@@ -6,6 +6,13 @@ Look at the document at (https://wowchemy.com/docs/)
 
 
 
+## Quick Preview
+
+```bash
+$ sh view.sh
+```
+
+Then, look at http://localhost:1313/labpage/en/
 
 
 
@@ -14,10 +21,8 @@ Look at the document at (https://wowchemy.com/docs/)
 To update the theme, type
 
 ```bash
-$> sh update_wowchemy.sh
+$ sh update_wowchemy.sh
 ```
-
-
 
 
 
@@ -31,7 +36,7 @@ To add publication, make a new folder under `labpage/content/en/publication` and
 
 ## Updating Members
 
-To add members, make new folders under `labpage/content/en/authors` and `labpage/content/jp/authors`and put markdown a document `_index.md` in each folder.
+To add members, make new folders under `labpage/content/en/authors` and `labpage/content/jp/authors`and put markdown a document `_index.md` in each folder. 
 
 
 
@@ -43,7 +48,7 @@ To add members, make new folders under `labpage/content/en/authors` and `labpage
 first render the HTML files under `labpage/docs`
 
 ```bash
-$> hugo 
+$ hugo 
 ```
 
 The Japanese page is broken because the link to the css is not correct. This is due to the bug of the Wowchemy framework. Copy `wowchemy.cdffdbf2ee9d5c1efbe52ccc952d7dbf.css` under `\docs\labpage\labpage\` to get around this issue.
@@ -53,9 +58,9 @@ The Japanese page is broken because the link to the css is not correct. This is 
 Upload the webpage by pushing to the github remote repository
 
 ```bash
-$> git add .
-$> git commit -m "explain about the update here"
-$> git push
+$ git add .
+$ git commit -m "explain about the update here"
+$ git push
 ```
 
 
