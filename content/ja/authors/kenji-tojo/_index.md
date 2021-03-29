@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 東條　健治
+title: 東條　建治
 
 # Username (this should match the folder name)
 authors: 
