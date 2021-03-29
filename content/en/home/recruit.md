@@ -12,20 +12,20 @@ height = "50px"
 
 <table style="width:80%">
 <tr>
-	<th>Responsibility</th>
-	<th>Employee of this position is requested to read a graphics-related paper and then re-implements the method, and finally evaluate the performance of the method.</th>
+	<td>Responsibility</td>
+	<td>Employee of this position is requested to read a graphics-related paper and then re-implements the method, and finally evaluate the performance of the method.</td>
 </tr><tr>	
-	<th>Period of contract</th>
-	<th>Flexible. Typically, 5 hours a week from three months to six months.</th> 
+	<td>Period of contract</td>
+	<td>Flexible. Typically, 5 hours a week from three months to six months.</td> 
 </tr><tr>
-	<th>Requiremsents</th>
-	<th>Applicants need to be an undergraduate or graduate student of the University of Tokyo, familiar with C++ or Python programming and having interested in graphics programming. </th>
+	<td>Requiremsents</td>
+	<td>Applicants need to be an undergraduate or graduate student of the University of Tokyo, familiar with C++ or Python programming and having interested in graphics research. </td>
 </tr><tr>
-	<th>Salary</th>
-	<th>Based on regulation of the University of Tokyo.</th> 
+	<td>Salary</td>
+	<td>Based on regulation of the University of Tokyo.</td> 
 </tr><tr>	
-	<th>How to apply</th>
-	<th>Please contact <a href="mailto:umetani@ci.i.u-tokyo.ac.jp">Nobuyuki Umetani</a> if you are interested. </th>
+	<td>How to apply</td>
+	<td>Please contact <a href="mailto:umetani@ci.i.u-tokyo.ac.jp">Nobuyuki Umetani</a> if you are interested. </td>
 </tr>
 </table>
 
