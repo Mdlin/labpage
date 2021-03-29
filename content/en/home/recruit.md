@@ -26,7 +26,7 @@ height = "50px"
 </tr><tr>	
 	<th>How to apply</th>
 	<th>Please contact <a href="mailto:umetani@ci.i.u-tokyo.ac.jp">Nobuyuki Umetani</a> if you are interested. </th>
-</tr>	
+</tr>
 </table>
 
 
