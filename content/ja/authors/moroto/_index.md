@@ -29,3 +29,14 @@ user_groups:
 - 博士学生
 ---
 
+
+### 興味・関心
+- コンピュータグラフィックス
+- 競技プログラミング
+- カメラ (not photographer, but videographer)
+- 映像制作 (Adobe After Effects 等)
+
+### アバター画像について
+アバターの画像は425個の半透明な円で構成されています。
+フル画質の画像は[こちら](./avatar.jpg)から。
+これは TopCoder Marathon Match 95 で出題された問題のソルバーを用いて生成されました。

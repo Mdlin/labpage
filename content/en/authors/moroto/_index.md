@@ -29,3 +29,13 @@ user_groups:
 - Doctor Students
 ---
 
+### Interests
+- Computer Graphics
+- Competitive Programming
+- Camera (not photographer, but videographer)
+- Video Production (Adobe After Effects, etc.)
+
+### About Avater
+The avatar image consists of 425 translucent circles.
+Click [here](./avatar.jpg) to see the full quality image.
+This was generated using the solver for the TopCoder Marathon Match 95.
