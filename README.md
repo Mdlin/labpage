@@ -51,8 +51,7 @@ first render the HTML files under `labpage/docs`
 $ hugo 
 ```
 
-The Japanese page is broken because the link to the css is not correct. This is due to the bug of the Wowchemy framework. Copy `wowchemy.cdffdbf2ee9d5c1efbe52ccc952d7dbf.css` under `\docs\labpage\labpage\` to get around this issue.  
-A more accurate solution is to match the files in `docs\labpage\css` with the files in `docs\css`.  
+The Japanese page is broken because the link to the css is not correct. This is due to the bug of the Wowchemy framework. Copy `docs\labpage\css` from `docs\css` to get around this issue.  
 
 
 
