@@ -17,11 +17,24 @@ role: Ph.D Student (2nd year)
 #bio: 
 # I'm a Ph.D student in the creative informatics department in the University of Tokyo
 
+# Interests to show in About widget
+interests:
+- Light transport simulation
+- Non-photorealistic rendering
+- Numerical integration methods
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Education to show in About widget
+education:
+  courses:
+  - course: PhD in Creative Informatics
+    institution: The University of Tokyo
+    year: 2019-Present
+  - course: Master's in Creative Informatics
+    institution: The Univeristy of Tokyo
+    year: 2017-2019
+  - course: Bachelor's in Computer Science
+    institution: University of California, San Diego
+    year: 2012-2015
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -29,7 +42,11 @@ user_groups:
 - 博士学生
 ---
 
-<a href="http://cv.rexwe.st/">My Personal Page<a>
+
+Rex West is a Ph.D student of the Department of Creative Informatics at The University of Tokyo.  
+
+### Online CV
+<a href="http://cv.rexwe.st/">cv.rexwe.st<a>
 
 
 
