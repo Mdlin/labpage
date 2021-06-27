@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -19,7 +19,112 @@
   
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/egsr21_blur/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/image-processing/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tags/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/toshiya-hachisuka/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/moroto/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/moroto/"
+                />
   </url>
   
   <url>
@@ -38,83 +143,8 @@
   </url>
   
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/machine-learning/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tags/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/tags/"
-                />
   </url>
   
   <url>
@@ -564,20 +594,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cgenglab.github.io/labpage/en/authors/yuanwei/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/moroto/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/authors/moroto/"
                 />
   </url>
   
