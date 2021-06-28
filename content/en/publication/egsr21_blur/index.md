@@ -33,8 +33,8 @@ tags:
 featured: false
 
 links:
-- name: Suppemental Material
-  url: https://www.dropbox.com/s/5mkvk3ug8y5q6vf/2021_egsr_blur_suuplemental.zip?dl=0
+- name: Supplemental Material
+  url: http://www.nobuyuki-umetani.com/share/2021_egsr_blur_suuplemental.zip
 url_pdf: https://www.dropbox.com/s/7aoeykgjjbjrbff/2021_egsr_blur.pdf?dl=0
 
 
