@@ -34,7 +34,7 @@ featured: false
 
 links:
 - name: Supplemental Material
-  url: http://www.nobuyuki-umetani.com/share/2021_egsr_blur_suuplemental.zip
+  url: https://drive.google.com/drive/folders/1xofVIxNZZG3eti7dFWIW1jv8N0wu68OR
 url_pdf: https://www.dropbox.com/s/7aoeykgjjbjrbff/2021_egsr_blur.pdf?dl=0
 
 
