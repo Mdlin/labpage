@@ -10,7 +10,7 @@ role: 准教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 東京大学大学院，情報理工学系研究科，創造情報額専攻
+- name: 東京大学大学院，情報理工学系研究科，創造情報学専攻
   url: "https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml"
 
 # Short bio (displayed in user profile at end of posts)
