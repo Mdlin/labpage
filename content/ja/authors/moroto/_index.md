@@ -40,3 +40,8 @@ user_groups:
 アバターの画像は425個の半透明な円で構成されています。
 フル画質の画像は[こちら](./avatar.jpg)から。
 これは TopCoder Marathon Match 95 で出題された問題のソルバーを用いて生成されました。
+
+### 発表
+- [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
+### Link
+- [未踏名鑑](https://scrapbox.io/mitou-meikan/%E8%AB%B8%E6%88%B8_%E9%9B%84%E6%B2%BB)

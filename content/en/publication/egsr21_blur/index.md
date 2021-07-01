@@ -35,8 +35,13 @@ featured: false
 links:
 - name: Supplemental Material
   url: https://drive.google.com/drive/folders/1xofVIxNZZG3eti7dFWIW1jv8N0wu68OR
+- name: YouTube Video
+  url: https://www.youtube.com/watch?v=F5sRzwi_Q5E
 url_pdf: https://www.dropbox.com/s/7aoeykgjjbjrbff/2021_egsr_blur.pdf?dl=0
 
+
+
+youtubeid: F5sRzwi_Q5E
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,3 +66,12 @@ projects:
 slides: example
 ---
 
+### Filtered Images
+- [Google Drive](https://drive.google.com/drive/folders/1xofVIxNZZG3eti7dFWIW1jv8N0wu68OR) ([Download All](https://drive.google.com/file/d/1yEaI9trRX-nx3-cQ15vqOY7eA7xoYah3/view?usp=sharing))
+
+### Presentation Video
+- [YouTube](https://www.youtube.com/watch?v=F5sRzwi_Q5E)
+
+### Products using This Technology
+- [Fast Camera Lens Blur](https://aescripts.com/fast-camera-lens-blur/)
+-- A high-speed camera lens blur plug-in that works with Adobe After Effects/Premiere Pro.
