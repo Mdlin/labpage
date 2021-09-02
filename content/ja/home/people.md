@@ -20,7 +20,7 @@ subtitle = ""
                  "Administration",
                  "Visitors",
                  "訪問研究員",                 
-                 "Alumni"]
+                 "卒業生"]
 
 [design]
   # Show user's social networking links? (true/false)
