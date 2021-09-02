@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/tag/machine-learning/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://cgenglab.github.io/labpage/en/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Per Garment Capture and Synthesis for Real-time Virtual Try-on</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data-driven Garment Pattern Estimation from 3D Geometries</title>

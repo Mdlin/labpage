@@ -35,7 +35,8 @@ abstract: |
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Computational Fabrication
+- Cloth Modeling
+- Machine Learning
 - Interactive Modeling
 featured: false
 
