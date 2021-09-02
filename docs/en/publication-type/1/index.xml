@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://cgenglab.github.io/labpage/en/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Per Garment Capture and Synthesis for Real-time Virtual Try-on</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Polygonal Splatting using Directional Kernel Difference</title>

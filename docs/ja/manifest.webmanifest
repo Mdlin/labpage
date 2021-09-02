@@ -1,0 +1,18 @@
+{
+  "name": "Interactive Graphics & Engineering Lab",
+  "short_name": "Interactive Graphics & Engineering Lab",
+  "lang": "ja",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/ja/?utm_source=web_app_manifest"
+}
