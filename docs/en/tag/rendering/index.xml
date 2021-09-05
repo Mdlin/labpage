@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rex West | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/labpage/en/authors/rexwest/</link>
-      <atom:link href="https://cgenglab.github.io/labpage/en/authors/rexwest/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rex West</description>
+    <title>Rendering | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/tag/rendering/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/rendering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rendering</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2021</copyright><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/labpage/en/authors/rexwest/avatar_hu5367cb53a088168f69f16706d5632715_45695_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Rex West</title>
-      <link>https://cgenglab.github.io/labpage/en/authors/rexwest/</link>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
+      <title>Rendering</title>
+      <link>https://cgenglab.github.io/labpage/en/tag/rendering/</link>
     </image>
     
     <item>
