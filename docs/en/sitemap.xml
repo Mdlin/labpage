@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -16,10 +16,23 @@
                 />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/meistdan/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/meistdan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/meistdan/"
+                />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -31,11 +44,24 @@
                 href="https://cgenglab.github.io/labpage/en/"
                 />
   </url><url>
-    <loc>https://cgenglab.github.io/labpage/en/publication/sigga21_featureline/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <loc>https://cgenglab.github.io/labpage/en/publication/pg21_sequence/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/admin/"
+                />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -48,7 +74,7 @@
                 />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/publication/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -61,6 +87,41 @@
                 />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/tag/rendering/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/smukherjee2016/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/authors/smukherjee2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/authors/smukherjee2016/"
+                />
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/sayan-mukherjee/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/son-hua/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/tags/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cgenglab.github.io/labpage/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cgenglab.github.io/labpage/en/tags/"
+                />
+  </url><url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/sigga21_featureline/</loc>
     <lastmod>2021-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/authors/rexwest/</loc>
@@ -76,19 +137,6 @@
                 href="https://cgenglab.github.io/labpage/en/authors/rexwest/"
                 />
   </url><url>
-    <loc>https://cgenglab.github.io/labpage/en/tags/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/tags/"
-                />
-  </url><url>
     <loc>https://cgenglab.github.io/labpage/en/tag/cloth-modeling/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -100,19 +148,6 @@
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/tag/machine-learning/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc>
-    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/authors/admin/"
-                />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
@@ -343,18 +378,6 @@
                 href="https://cgenglab.github.io/labpage/en/categories/"
                 />
   </url><url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/meistdan/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/authors/meistdan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/authors/meistdan/"
-                />
-  </url><url>
     <loc>https://cgenglab.github.io/labpage/en/authors/kenji-tojo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -389,18 +412,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cgenglab.github.io/labpage/en/authors/rintaro/"
-                />
-  </url><url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/smukherjee2016/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cgenglab.github.io/labpage/ja/authors/smukherjee2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cgenglab.github.io/labpage/en/authors/smukherjee2016/"
                 />
   </url><url>
     <loc>https://cgenglab.github.io/labpage/en/authors/yifei/</loc>
