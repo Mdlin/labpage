@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student (3rd year)
+role: Ph.D Student (4th year)
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,5 +29,5 @@ user_groups:
 - Doctor Students
 ---
 
-<a href="http://graphics.ci.i.u-tokyo.ac.jp/smukherjee/">My Personal Page<a>
+<a href="https://smukherjee2016.github.io/">My Personal Page<a>
 
