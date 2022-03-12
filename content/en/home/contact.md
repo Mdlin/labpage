@@ -25,6 +25,22 @@ content:
 #      # Enable CAPTCHA challenge to reduce spam?
 #      captcha: false
   
+  # Contact details (edit or remove options as required)
+  email: umetani@ci.i.u-tokyo.ac.jp
+  address:
+    street: 'Bldg. I-REF 5th floor, 1-1-1 Yayoi'
+    city: Bunkyo
+    region: Tokyo
+    postcode: '113-8657 (<a href=https://goo.gl/maps/tRBDKovSYLq2A1ok8 target=_blank>Google
+    Map</a>)'
+    country: Japan
+    country_code: JP
+  coordinates:
+    latitude: '35.715853'
+    longitude: '139.761093'    
+  directions: Enter the I-REF building and take the elevators to the 2nd Floor. Talk to the office staff there to call me.  
+  contact_links: []
+
 design:
-  columns: '1'
+  columns: '2'
 ---
