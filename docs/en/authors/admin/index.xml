@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/authors/admin/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Nobuyuki Umetani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgenglab.github.io/labpage/en/authors/admin/avatar_hucc2c9d478ae12dfb186edeea2135d6eb_1558945_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nobuyuki Umetani</title>
       <link>https://cgenglab.github.io/labpage/en/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Neural Motion Compression with Frequency-adaptive Fourier Feature Network</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/eg22short_neuralcompression/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/eg22short_neuralcompression/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural Sequence Transformation</title>

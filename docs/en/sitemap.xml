@@ -4,7 +4,7 @@
   
   
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/authors/"
@@ -14,7 +14,85 @@
       href="https://cgenglab.github.io/labpage/en/authors/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/character-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/kenji-tojo/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/kenji-tojo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/kenji-tojo/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/machine-learning/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/eg22short_neuralcompression/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/admin/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication_types/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/tags/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/yifei/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/yifei/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/yifei/"
+    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/meistdan/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -26,47 +104,7 @@
       href="https://cgenglab.github.io/labpage/en/authors/meistdan/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/"
-    /></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/pg21_sequence/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/admin/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication_types/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/rendering/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod></url>
   <url>
@@ -83,16 +121,6 @@
     <loc>https://cgenglab.github.io/labpage/en/authors/sayan-mukherjee/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/son-hua/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/tags/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/sigga21_featureline/</loc><lastmod>2021-10-31T00:00:00+00:00</lastmod></url>
   <url>
@@ -111,8 +139,6 @@
     <loc>https://cgenglab.github.io/labpage/en/authors/i-chao-shen/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/interactive-modeling/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/machine-learning/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
   <url>
@@ -194,8 +220,6 @@
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/sigga15tb_meltables/</loc><lastmod>2015-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</loc><lastmod>2015-07-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/sigg14_omniad/</loc><lastmod>2015-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/tobias-martin/</loc><lastmod>2015-07-01T00:00:00+00:00</lastmod></url>
@@ -270,16 +294,6 @@
       href="https://cgenglab.github.io/labpage/en/categories/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/kenji-tojo/</loc><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/kenji-tojo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/kenji-tojo/"
-    /></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/nnkgw/</loc><xhtml:link
       rel="alternate"
       hreflang="ja"
@@ -298,16 +312,6 @@
       rel="alternate"
       hreflang="en"
       href="https://cgenglab.github.io/labpage/en/authors/rintaro/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/yifei/</loc><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/yifei/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/yifei/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/ikkaku/</loc><xhtml:link

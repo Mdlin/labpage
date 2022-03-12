@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yifei Chen | Interactive Graphics &amp; Engineering Lab</title>
-    <link>https://cgenglab.github.io/labpage/en/authors/yifei/</link>
-      <atom:link href="https://cgenglab.github.io/labpage/en/authors/yifei/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yifei Chen</description>
+    <title>Character Animation | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/tag/character-animation/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/character-animation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Character Animation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgenglab.github.io/labpage/en/authors/yifei/avatar_huce32f87ed4d2e20c83970cbaa86264f1_887656_270x270_fill_lanczos_center_3.png</url>
-      <title>Yifei Chen</title>
-      <link>https://cgenglab.github.io/labpage/en/authors/yifei/</link>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
+      <title>Character Animation</title>
+      <link>https://cgenglab.github.io/labpage/en/tag/character-animation/</link>
     </image>
     
     <item>
