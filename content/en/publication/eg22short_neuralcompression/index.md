@@ -35,7 +35,10 @@ tags:
 featured: false
 
 links:
+- name: YouTube video
+  url: https://www.youtube.com/watch?v=6IybU9WHGaI  
 url_pdf: https://www.dropbox.com/s/z4rnklja92jnpzh/2022_egshort_neuralcompression.pdf?dl=0
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
