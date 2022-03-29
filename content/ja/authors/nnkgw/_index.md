@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士学生（D4，社会人特別選抜コース）
+role: 博士学生（D4，社会人特別選抜コース，長期履修学生）
 
 
 # Short bio (displayed in user profile at end of posts)

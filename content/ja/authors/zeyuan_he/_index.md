@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 何泽远(Zeyuan He)
+title: 何　泽远(Zeyuan He)
 
 # Username (this should match the folder name)
 authors: 

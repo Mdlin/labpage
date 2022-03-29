@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 蔡易逸(Yiyi Cai)
+title: 蔡　易逸(Yiyi Cai)
 
 # Username (this should match the folder name)
 authors: 

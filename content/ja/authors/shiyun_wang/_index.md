@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王詩韻(Shiyun Wang)
+title: 王　詩韻(Shiyun Wang)
 
 # Username (this should match the folder name)
 authors: 

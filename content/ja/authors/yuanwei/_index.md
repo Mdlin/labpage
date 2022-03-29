@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 張 元瑋(Yuanwei Zhang)
+title: 張　元瑋(Yuanwei Zhang)
 
 # Username (this should match the folder name)
 authors:

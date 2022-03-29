@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吴宇涵(Yuhan Wu)
+title: 吴　宇涵(Yuhan Wu)
 
 # Username (this should match the folder name)
 authors: 

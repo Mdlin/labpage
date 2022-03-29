@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陳 逸⾶ (Yifei Chen)
+title: 陳　逸⾶ (Yifei Chen)
 
 # Username (this should match the folder name)
 authors:

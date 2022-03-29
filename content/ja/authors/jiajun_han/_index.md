@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 韓 佳峻（Jiajun Han）
+title: 韓　佳峻（Jiajun Han）
 
 # Username (this should match the folder name)
 authors: 
