@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student (1st year)
+role: Master Student (2nd year)
 
 
 # Short bio (displayed in user profile at end of posts)

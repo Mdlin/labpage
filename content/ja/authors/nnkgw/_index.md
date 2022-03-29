@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student (3rd year)
+role: 博士学生（D4，社会人特別選抜コース）
 
 
 # Short bio (displayed in user profile at end of posts)

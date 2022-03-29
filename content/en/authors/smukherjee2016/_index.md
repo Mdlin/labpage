@@ -26,7 +26,7 @@ role: Ph.D Student (4th year)
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctor Students
+- Alumni
 ---
 
 <a href="https://smukherjee2016.github.io/">My Personal Page<a>
