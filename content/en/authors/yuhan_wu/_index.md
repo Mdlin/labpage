@@ -21,9 +21,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yoharol
-- icon: :video_game:
-  icon_pack: emoji
-  link: https://inamika.itch.io/
+- icon: gamepad
+  icon_pack: fas
+  link: https://inamika.itch.io
 - icon: envelope
   icon_pack: fas
   link: wu-yuhan@g.ecc.u-tokyo.ac.jp
