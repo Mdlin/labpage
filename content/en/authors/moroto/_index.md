@@ -40,5 +40,9 @@ The avatar image consists of 425 translucent circles.
 Click [here](./avatar.jpg) to see the full quality image.
 This was generated using the solver for the TopCoder Marathon Match 95.
 
+### Awards and Honors
+- JST Support for Pioneering Research Initiated by the Next Generation (SPRING GX) 2021-2024
+
+
 ### Links
 - [Mitou-Meikan (Japanese)](https://scrapbox.io/mitou-meikan/%E8%AB%B8%E6%88%B8_%E9%9B%84%E6%B2%BB)
