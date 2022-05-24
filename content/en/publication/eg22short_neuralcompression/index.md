@@ -37,6 +37,8 @@ featured: false
 links:
 - name: YouTube video
   url: https://www.youtube.com/watch?v=6IybU9WHGaI  
+- name: Slide
+  url: https://www.dropbox.com/s/2owiobqgojcsju0/2022_gi%20energyhair_slide.pdf?dl=0  
 url_pdf: https://www.dropbox.com/s/z4rnklja92jnpzh/2022_egshort_neuralcompression.pdf?dl=0
 
 

@@ -38,6 +38,10 @@ featured: false
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=rOZgkWYVaMc
+- name: Slide
+  url: https://www.dropbox.com/s/2owiobqgojcsju0/2022_gi%20energyhair_slide.pdf?dl=0  
+- name: YouTube Video
+  url: https://www.youtube.com/watch?v=Jp1xjUGn2uQ
 url_pdf: https://www.dropbox.com/s/0bzhzydunuyozbm/2022_gi_energyhair.pdf?dl=0  
 
 # Featured image
