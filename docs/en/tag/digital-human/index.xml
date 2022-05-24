@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Human | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/tag/digital-human/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/digital-human/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Human</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
+      <title>Digital Human</title>
+      <link>https://cgenglab.github.io/labpage/en/tag/digital-human/</link>
+    </image>
+    
+    <item>
+      <title>EnergyHair: Sketch-Based Interactive Guide Hair Design Using Physics-Inspired Energy</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/gi22_energyhair/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/gi22_energyhair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

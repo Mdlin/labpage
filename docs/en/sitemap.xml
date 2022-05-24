@@ -4,7 +4,7 @@
   
   
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/authors/"
@@ -14,13 +14,15 @@
       href="https://cgenglab.github.io/labpage/en/authors/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/character-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/digital-human/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/gi22_energyhair/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/en/tag/hair-modeling/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/"
@@ -29,6 +31,66 @@
       hreflang="en"
       href="https://cgenglab.github.io/labpage/en/"
     /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/interactive-modeling/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/admin/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/physics-simulation/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication_types/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/shinichi-kinwaki/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/tags/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/yuanwei/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/yuanwei/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/yuanwei/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/character-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tag/data-driven-animation/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/kenji-tojo/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -43,46 +105,6 @@
     <loc>https://cgenglab.github.io/labpage/en/tag/machine-learning/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/eg22short_neuralcompression/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/admin/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication_types/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/tags/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/yifei/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -138,8 +160,6 @@
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/i-chao-shen/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/interactive-modeling/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/uist21_mannequin/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/takeo-igarashi/</loc><lastmod>2021-10-13T00:00:00+00:00</lastmod></url>
@@ -177,8 +197,6 @@
     <loc>https://cgenglab.github.io/labpage/en/authors/jin-huang/</loc><lastmod>2020-11-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/jiong-chen/</loc><lastmod>2020-11-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/physics-simulation/</loc><lastmod>2020-11-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/computational-fabrication/</loc><lastmod>2020-10-20T00:00:00+00:00</lastmod></url>
   <url>
@@ -352,16 +370,6 @@
       rel="alternate"
       hreflang="en"
       href="https://cgenglab.github.io/labpage/en/authors/ikkaku/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/yuanwei/</loc><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/yuanwei/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/yuanwei/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/yuhan_wu/</loc><xhtml:link

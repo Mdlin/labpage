@@ -94,6 +94,16 @@
       href="https://cgenglab.github.io/labpage/ja/tags/"
     /></url>
   <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/yuhan_wu/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/yuhan_wu/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/yuhan_wu/"
+    /></url>
+  <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/ikkaku/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -104,14 +114,14 @@
       href="https://cgenglab.github.io/labpage/ja/authors/ikkaku/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/nnkgw/</loc><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/ja/authors/shiyun_wang/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/nnkgw/"
+      href="https://cgenglab.github.io/labpage/en/authors/shiyun_wang/"
     /><xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/nnkgw/"
+      href="https://cgenglab.github.io/labpage/ja/authors/shiyun_wang/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/zeyuan_he/</loc><xhtml:link
@@ -124,14 +134,34 @@
       href="https://cgenglab.github.io/labpage/ja/authors/zeyuan_he/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/yuhan_wu/</loc><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/ja/authors/jiajun_han/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/yuhan_wu/"
+      href="https://cgenglab.github.io/labpage/en/authors/jiajun_han/"
     /><xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/yuhan_wu/"
+      href="https://cgenglab.github.io/labpage/ja/authors/jiajun_han/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/moroto/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/moroto/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/nnkgw/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/nnkgw/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/nnkgw/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/yuanwei/</loc><xhtml:link
@@ -142,6 +172,16 @@
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/authors/yuanwei/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/ja/authors/yifei/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/yifei/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/yifei/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/kenji-tojo/</loc><xhtml:link
@@ -174,16 +214,6 @@
       href="https://cgenglab.github.io/labpage/ja/authors/rintaro/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/shiyun_wang/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/shiyun_wang/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/shiyun_wang/"
-    /></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/ja/authors/yiyi_cai/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -192,34 +222,4 @@
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/authors/yiyi_cai/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/moroto/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/moroto/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/yifei/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/yifei/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/yifei/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/ja/authors/jiajun_han/</loc><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/jiajun_han/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/jiajun_han/"
     /></url></urlset>
