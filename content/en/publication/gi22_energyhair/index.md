@@ -2,7 +2,7 @@
 title: "EnergyHair: Sketch-Based Interactive Guide Hair Design Using Physics-Inspired Energy"
 authors:
 - yuanwei
-- Shinichi Kinwaki
+- kinuwaki
 - admin
 date: "2022-05-11T00:00:00Z"
 doi: ""
@@ -40,8 +40,10 @@ links:
   url: https://openreview.net/forum?id=rOZgkWYVaMc
 - name: Slide
   url: https://www.dropbox.com/s/2owiobqgojcsju0/2022_gi%20energyhair_slide.pdf?dl=0  
-- name: YouTube Video
+- name: Supplemental Video
   url: https://www.youtube.com/watch?v=Jp1xjUGn2uQ
+- name: Presentation Video
+  url: https://www.youtube.com/watch?v=tFGnoq92iuU  
 url_pdf: https://www.dropbox.com/s/0bzhzydunuyozbm/2022_gi_energyhair.pdf?dl=0  
 
 # Featured image
