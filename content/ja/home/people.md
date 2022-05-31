@@ -17,9 +17,7 @@ subtitle = ""
                  "研究員",
                  "博士学生",
                  "修士学生",
-                 "Administration",
-                 "Visitors",
-                 "訪問研究員",                 
+                 "訪問者",
                  "卒業生"]
 
 [design]

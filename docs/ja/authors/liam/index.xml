@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liam S. Crouch | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/ja/authors/liam/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/ja/authors/liam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liam S. Crouch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>© Nobuyuki Umetani 2022</copyright>
+    <image>
+      <url>https://cgenglab.github.io/labpage/ja/authors/liam/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Liam S. Crouch</title>
+      <link>https://cgenglab.github.io/labpage/ja/authors/liam/</link>
+    </image>
+    
+  </channel>
+</rss>

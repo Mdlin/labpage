@@ -51,8 +51,7 @@ first render the HTML files under `labpage/docs`
 $ hugo 
 ```
 
-The Japanese page is broken because the link to the css is not correct. This is due to the bug of the Wowchemy framework. Copy `docs\labpage\css` from `docs\css` to get around this issue.  
-
+The Japanese page is broken because the link to the css is not correct. This is due to the bug of the Wowchemy framework. Copy `docs/css`,`docs/js`,`docs/media` and `docs/webfonts` to `docs/labpage` to get around this issue.
 
 
 Upload the webpage by pushing to the github remote repository
