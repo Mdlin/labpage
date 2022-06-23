@@ -29,3 +29,5 @@ user_groups:
 - Master Students
 ---
 
+### Links
+<a href="https://kenji-tojo.github.io/">Personal Website<a>
