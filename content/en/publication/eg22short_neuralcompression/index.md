@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: Slide
-  url: https://www.dropbox.com/s/2owiobqgojcsju0/2022_gi%20energyhair_slide.pdf?dl=0    
+  url: https://docs.google.com/presentation/d/1oWtMtblYendjuD3_kiNAcIK7SnRXs0bl/edit?usp=sharing&ouid=114828650557921591095&rtpof=true&sd=true
 - name: Supplemental Video
   url: https://www.youtube.com/watch?v=6IybU9WHGaI   
 - name: Presentation Video
