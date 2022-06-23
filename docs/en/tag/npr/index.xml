@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NPR | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/tag/npr/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/tag/npr/index.xml" rel="self" type="application/rss+xml" />
+    <description>NPR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
+      <title>NPR</title>
+      <link>https://cgenglab.github.io/labpage/en/tag/npr/</link>
+    </image>
+    
+    <item>
+      <title>Physically-based Feature Line Rendering</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga21_featureline/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga21_featureline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

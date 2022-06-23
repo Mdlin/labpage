@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Interactive Graphics &amp; Engineering Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
       <title>Interactive Graphics &amp; Engineering Lab</title>
       <link>https://cgenglab.github.io/labpage/en/</link>
     </image>
+    
+    <item>
+      <title>Recolorable Posterization of Volumetric Radiance Fields - Supplemental Video</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/egsr22_npr/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/egsr22_npr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EnergyHair: Sketch-Based Interactive Guide Hair Design Using Physics-Inspired Energy</title>
