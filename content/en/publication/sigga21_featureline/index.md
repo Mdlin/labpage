@@ -29,7 +29,7 @@ summary: In this paper we present a path-based method for incorporating feature 
 
 tags:
 - Rendering
-- NPR
+- Non-Photorealistic 
 featured: false
 
 links:
