@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
-- name: YouTube Video
-  url: https://www.youtube.com/watch?v=xO4uyGcwjXA
-url_pdf: https://drive.google.com/file/d/1HjAVDBiainhDAEejmDPH8WrvRxk-Fbtw/view
+- name: Project Page
+  url: https://kenji-tojo.github.io/publications/posternerf/
+
 
 
 youtubeid: xO4uyGcwjXA
