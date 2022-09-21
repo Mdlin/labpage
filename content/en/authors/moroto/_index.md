@@ -42,6 +42,7 @@ This was generated using the solver for the TopCoder Marathon Match 95.
 
 ### Awards and Honors
 - JST Support for Pioneering Research Initiated by the Next Generation (SPRING GX) 2021-2024
+- ACM ICPC 2018 World Finals
 
 
 ### Links

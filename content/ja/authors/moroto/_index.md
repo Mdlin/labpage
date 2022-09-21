@@ -43,9 +43,11 @@ user_groups:
 
 ### 発表
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
+- Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022. 英語)
 
 ### その他
 - JST次世代研究者挑戦的研究プログラム (SPRING GX) 採択 2021-2024
+- ACM ICPC 2018 World Finals 出場
 
 ### Link
 - [未踏名鑑](https://scrapbox.io/mitou-meikan/%E8%AB%B8%E6%88%B8_%E9%9B%84%E6%B2%BB)
