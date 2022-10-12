@@ -4,7 +4,7 @@
   
   
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/en/authors/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/authors/"
@@ -14,11 +14,13 @@
       href="https://cgenglab.github.io/labpage/en/authors/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/publication-type/1/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/tag/image-processing/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod></url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/sigga22_wmatrix_median/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://cgenglab.github.io/labpage/en/tag/image-processing/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ja"
       href="https://cgenglab.github.io/labpage/ja/"
@@ -26,6 +28,56 @@
       rel="alternate"
       hreflang="en"
       href="https://cgenglab.github.io/labpage/en/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/admin/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication_types/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/publication/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/tags/"
+    /></url>
+  <url>
+    <loc>https://cgenglab.github.io/labpage/en/authors/moroto/</loc><lastmod>2022-10-31T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cgenglab.github.io/labpage/en/authors/moroto/"
     /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/kenji-tojo/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
@@ -38,51 +90,11 @@
       href="https://cgenglab.github.io/labpage/en/authors/kenji-tojo/"
     /></url>
   <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/admin/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/admin/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/admin/"
-    /></url>
-  <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/non-photorealistic/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication_types/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication_types/"
-    /></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/publication/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/publication/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/publication/egsr22_npr/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/rendering/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/tags/</loc><lastmod>2022-06-23T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/tags/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/tag/digital-human/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod></url>
   <url>
@@ -175,16 +187,6 @@
     <loc>https://cgenglab.github.io/labpage/en/publication/egsr21_blur/</loc><lastmod>2021-06-26T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/toshiya-hachisuka/</loc><lastmod>2021-06-26T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://cgenglab.github.io/labpage/en/authors/moroto/</loc><lastmod>2021-06-26T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://cgenglab.github.io/labpage/ja/authors/moroto/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cgenglab.github.io/labpage/en/authors/moroto/"
-    /></url>
   <url>
     <loc>https://cgenglab.github.io/labpage/en/authors/chihiro-goto/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
