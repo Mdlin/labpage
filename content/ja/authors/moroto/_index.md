@@ -31,7 +31,7 @@ user_groups:
 
 
 ### 発表
-- Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022. 英語)
+- [Constant Time Median Filter using 2D Wavelet Matrix (SIGGRAPH Aisa 2022. 英語)](../../../en/publication/sigga22_wmatrix_median/)
 - [Fast Polygonal Splatting using Directional Kernel Difference (EGSR2021. 英語)](../../../en/publication/egsr21_blur/)
 
 ### その他
