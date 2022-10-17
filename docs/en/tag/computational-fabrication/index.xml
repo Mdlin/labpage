@@ -5,12 +5,20 @@
     <link>https://cgenglab.github.io/labpage/en/tag/computational-fabrication/</link>
       <atom:link href="https://cgenglab.github.io/labpage/en/tag/computational-fabrication/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Fabrication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
       <title>Computational Fabrication</title>
       <link>https://cgenglab.github.io/labpage/en/tag/computational-fabrication/</link>
     </image>
+    
+    <item>
+      <title>Fast Editing of Singularities in Field-Aligned Stripe Patterns</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga22_fast_singularity/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga22_fast_singularity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tsugite: Interactive Design and Fabrication of Wood Joints</title>

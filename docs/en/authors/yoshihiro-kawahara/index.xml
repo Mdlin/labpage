@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshihiro Kawahara | Interactive Graphics &amp; Engineering Lab</title>
+    <link>https://cgenglab.github.io/labpage/en/authors/yoshihiro-kawahara/</link>
+      <atom:link href="https://cgenglab.github.io/labpage/en/authors/yoshihiro-kawahara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yoshihiro Kawahara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nobuyuki Umetani 2022</copyright><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgenglab.github.io/labpage/media/icon_hu1ba632f0a29c03dec65ff229bd3e10bd_12003_512x512_fill_lanczos_center_3.png</url>
+      <title>Yoshihiro Kawahara</title>
+      <link>https://cgenglab.github.io/labpage/en/authors/yoshihiro-kawahara/</link>
+    </image>
+    
+    <item>
+      <title>Fast Editing of Singularities in Field-Aligned Stripe Patterns</title>
+      <link>https://cgenglab.github.io/labpage/en/publication/sigga22_fast_singularity/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgenglab.github.io/labpage/en/publication/sigga22_fast_singularity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
