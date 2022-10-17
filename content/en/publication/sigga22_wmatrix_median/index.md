@@ -58,3 +58,15 @@ image:
 ---
 
 
+
+### Supplementary Materials Code
+We are currently preparing an implementation of a median filter using wavelet matrix for release on GitHub.
+Until the GitHub repository is ready for publication, we are publishing the supplementary materials code for the paper submission.
+This code is based on [the Supplemental Material Code for "Fast median filters using separable sorting networks"](https://dl.acm.org/doi/10.1145/3450626.3459773) [Adams 2021], with the addition of our methods.
+This supplementary materials includes code for CPUs, where readability is more important than speed, and code for CUDAs, where speed is the highest priority.
+- [Download here (Google Drive)](https://drive.google.com/file/d/1Jr2mQlixt_tN-vo2gfvgMCRx46nVgNsF/view?usp=sharing)
+
+The GitHub version, to be released in November, will include the following updates
+- Improved readability
+- Support for multiple channels
+- Reduced memory usage by about 40~50%.
