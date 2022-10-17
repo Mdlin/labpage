@@ -14,10 +14,10 @@ publishDate: "2017-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM Transactions on Graphics
+publication: ACM Transactions on Graphics (SIGGRAPH Asia 2022)
 publication_short: SIGGRAPH Asia 2022
 
 abstract:
@@ -32,9 +32,8 @@ tags:
 - Image Processing
 featured: false
 
-# links:
-# - name: Project Page
-  # url: http://lines.rexwe.st/
+links:
+url_pdf: https://www.dropbox.com/s/8f9k88xqn4ecgv1/2022_sigga_wavelet.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
