@@ -17,7 +17,21 @@
       <link>https://cgenglab.github.io/labpage/en/publication/sigga22_wmatrix_median/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://cgenglab.github.io/labpage/en/publication/sigga22_wmatrix_median/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;supplementary-materials-code&#34;&gt;Supplementary Materials Code&lt;/h3&gt;
+&lt;p&gt;We are currently preparing an implementation of a median filter using wavelet matrix for release on GitHub.
+Until the GitHub repository is ready for publication, we are publishing the supplementary materials code for the paper submission.
+This code is based on &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3450626.3459773&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Supplemental Material Code for &amp;ldquo;Fast median filters using separable sorting networks&amp;rdquo;&lt;/a&gt; [Adams 2021], with the addition of our methods.
+This supplementary materials includes code for CPUs, where readability is more important than speed, and code for CUDAs, where speed is the highest priority.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Jr2mQlixt_tN-vo2gfvgMCRx46nVgNsF/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download here (Google Drive)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The GitHub version, to be released in November, will include the following updates&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved readability&lt;/li&gt;
+&lt;li&gt;Support for multiple channels&lt;/li&gt;
+&lt;li&gt;Reduced memory usage by about 40~50%.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
