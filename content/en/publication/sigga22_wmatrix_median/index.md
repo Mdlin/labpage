@@ -33,7 +33,10 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.dropbox.com/s/8f9k88xqn4ecgv1/2022_sigga_wavelet.pdf
+- name: Paper PDF
+  url: https://www.dropbox.com/s/8f9k88xqn4ecgv1/2022_sigga_wavelet.pdf
+- name: GitHub Code
+  url: https://github.com/TumoiYorozu/WMatrixMedian
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
